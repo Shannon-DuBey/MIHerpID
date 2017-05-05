@@ -13,7 +13,7 @@
   <ion-list>
     <ion-item ion-item *ngFor="let turtle of turtleData" (click)="turtleSelected(turtle)" >
       <ion-thumbnail item-left>
-        <img src='../assets/img/{{ turtle.thumb }}'>
+        <img src='../assets/img/turtlePhotos/{{ turtle.thumb }}'>
       </ion-thumbnail>
       <h2>{{ turtle.commonname }}</h2>
       <button ion-button clear item-right>View</button>
