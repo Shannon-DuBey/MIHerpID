@@ -1,0 +1,31 @@
+<ion-header>
+  <ion-navbar>
+    <button ion-button menuToggle>
+      <ion-icon name="menu"></ion-icon>
+    </button>
+    <ion-title>MI Herp Id</ion-title>
+  </ion-navbar>
+</ion-header>
+
+<ion-content class="card-background-page">
+
+
+  <ion-card [navPush]="TurtlePage">
+      <img src="../assets/img/turtleCardBg.png"/>
+      <div class="card-title">Turtles</div>
+      <div class="card-subtitle">9 Species</div>
+  </ion-card>
+
+  <ion-card [navPush]="FrogPage">
+      <img src="../assets/img/frogCardBg.png"/>
+      <div class="card-title">Frogs & Toads</div>
+      <div class="card-subtitle">12 Species</div>
+    </ion-card>
+
+    <ion-card [navPush]="SalamanderPage">
+      <img src="..//assets/img/salamanderCardBg.png"/>
+      <div class="card-title">Salamanders</div>
+      <div class="card-subtitle">10 Species</div>
+    </ion-card>
+
+</ion-content>

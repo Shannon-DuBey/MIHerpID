@@ -1,0 +1,53 @@
+{
+  "turtles" : [
+    {
+      "name":"Common Map Turtle",
+      "thumb":"boxThumb.png",
+      "sciName": "Graptemys geographoca",
+      "desc": "Identified by map-like markings on a green, olive, or brown low keeled carapace. Narrow yellow stripes on head and limbs; yellow spot behind eye. Often seen basking on logs. Prefers aquatic habitats.",
+      "photo":{
+
+      }
+    },
+    {
+      "name":"Spiny Soft-Shell Turtle",
+      "thumb":"sliderThumb.png",
+      "sciName": "Apalone spinifera spinifera",
+      "desc": "A \"rubbery\" smoth, flat, skin-covered shell, without scutes, with flexible edges. Carapace is brown or olive colored; covered with black circles and spots in males and juveniles, dark blotches in females. Found in sand or mud bottoms of rivers, lakes, and impoundments with little vegetation. Fast swimmers and agile on land. If disturbed will bite. It is threatened by pollution, overharvest, and shoreline development.",
+      "photo":{
+
+      }
+    },
+    {
+      "name":"Common Snapping Turtle",
+      "thumb":"woodThumb.png",
+      "sciName": "Chelydra serpentina",
+      "desc": " ",
+      "photo":{
+
+      }
+    }
+  ],
+  "frogs" : [
+    {
+      "name":"2Frog",
+      "thumb":"2Thumb.png",
+      "sciName": "2",
+      "desc": "none yet",
+      "photo":{
+
+      }
+    }
+  ],
+  "salamanders":[
+      {
+        "name":"1Sal ",
+        "thumb":"Thumb.png",
+        "sciName": "1",
+        "desc": "none",
+        "photo":{
+
+        }
+      }
+  ]
+}

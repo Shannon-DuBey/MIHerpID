@@ -1,0 +1,24 @@
+<ion-header>
+  <ion-navbar>
+    <button ion-button menuToggle>
+      <ion-icon name="menu"></ion-icon>
+    </button>
+    <ion-title>
+      Turtles
+    </ion-title>
+  </ion-navbar>
+</ion-header>
+
+<ion-content>
+  <ion-list>
+    <ion-item ion-item *ngFor="let turtle of turtleData" (click)="turtleSelected(turtle)" >
+      <ion-thumbnail item-left>
+        <img src='../assets/img/{{ turtle.thumb }}'>
+      </ion-thumbnail>
+      <h2>{{ turtle.name }}</h2>
+      <button ion-button clear item-right>View</button>
+    </ion-item>
+  </ion-list>
+
+
+</ion-content>
