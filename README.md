@@ -8,6 +8,6 @@ This is an ionic 2 tabs starter combined with a side menu
 
 * Clone this repository: `git clone https://github.com/Flink91/ionic2-tabs-and-menu.git`
 * run `npm install` from the project root
-* Install the ionic CLI (`npm install -g ionic`)
+* Install the ionic CLI (`npm install -g ionic`) - if not already installed
 * Run `ionic serve` from th project root
-* Profit
+
