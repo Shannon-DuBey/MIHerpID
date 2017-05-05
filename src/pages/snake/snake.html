@@ -4,18 +4,18 @@
       <ion-icon name="menu"></ion-icon>
     </button>
     <ion-title>
-      Turtles
+      Snakes
     </ion-title>
   </ion-navbar>
 </ion-header>
 
 <ion-content>
   <ion-list>
-    <ion-item ion-item *ngFor="let turtle of turtleData" (click)="turtleSelected(turtle)" >
+    <ion-item ion-item *ngFor="let snake of snakeData" (click)="snakeSelected(snake)" >
       <ion-thumbnail item-left>
-        <img src='./assets/img/turtlePhotos/{{ turtle.thumb }}'>
+        <img src='./assets/img/snakePhotos/{{ snake.thumb }}'>
       </ion-thumbnail>
-      <h2>{{ turtle.commonname }}</h2>
+      <h2>{{ snake.commonname }}</h2>
       <button ion-button clear item-right>View</button>
     </ion-item>
   </ion-list>

@@ -20,7 +20,7 @@ export class DataService {
   }
 
   getJsonData(){
-    return this.http.get('../assets/data/herpData.json')
+    return this.http.get('./assets/data/herpData.json')
     .map(res => res.json())
   }
 

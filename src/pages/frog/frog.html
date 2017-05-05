@@ -13,7 +13,7 @@
   <ion-list>
     <ion-item ion-item *ngFor="let frog of frogData" (click)="frogSelected(frog)" >
       <ion-thumbnail item-left>
-        <img src='../assets/img/{{ frog.thumb }}'>
+        <img src='./assets/img/frogPhotos/{{ frog.thumb }}'>
       </ion-thumbnail>
       <h2>{{ frog.commonname }}</h2>
       <button ion-button clear item-right>View</button>

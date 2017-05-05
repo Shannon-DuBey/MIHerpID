@@ -13,7 +13,7 @@
   <ion-list>
     <ion-item ion-item *ngFor="let salamander of salamanderData" (click)="salamanderSelected(salamander)" >
       <ion-thumbnail item-left>
-        <img src='../assets/img/{{ salamander.thumb }}'>
+        <img src='./assets/img/salamanderPhotos/{{ salamander.thumb }}'>
       </ion-thumbnail>
       <h2>{{ salamander.commonname }}</h2>
       <button ion-button clear item-right>View</button>
