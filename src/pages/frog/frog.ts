@@ -1,4 +1,5 @@
 import { Component } from '@angular/core';
+import { DataService } from '../../providers/data-service';
 
 //import { NavController } from 'ionic-angular';
 
@@ -7,9 +8,16 @@ import { Component } from '@angular/core';
   templateUrl: 'frog.html'
 })
 export class FrogPage {
+  frogData: any;
 
-  constructor() {
+  constructor(public dataService: DataService) {
+    this.getFrogData();
+  }
 
+  getFrogData(){
+    this.dataService.getJsonData().subscribe(data => {
+      this.frogData = data.frogs;
+    });
   }
 
 }

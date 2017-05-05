@@ -1,0 +1,697 @@
+{
+  "turtles" : [
+   {
+     "id": "Terrapenecarolinacarolina",
+     "commonname": "Eastern Box Turtle",
+     "latinname": "Terrapene carolina carolina",
+     "narrative": "Identification:  The high, domed carapace is dark with a radiating pattern of yellow or orange. Plastron with flexible hinge, allowing complete shell closure. Head and legs with yellow markings. Male usually has red eyes and concave plastron. Photos © Jim Harding Adult carapace length:  4.5 to 7.8 inches (11.4 to 19.8 cm). Habitat:  Open woodlands and adjacent meadows, thickets, and gardens, often near shallow ponds, swamps, or streams. Michigan's only truly terrestrial turtle. Habits:  Many Box turtles stay in a small home range (under five acres) most of their lives; they routinely live for several decades, occasionally a century or more. Food includes plants, berries, fungi, insects, worms, slugs, snails, carrion. Reproduction:  Mating can occur spring through fall; female may remain fertile for four years after mating. Three to 8 oval, soft shelled eggs are laid in the ground in June; they hatch in 75 to 90 days. Range and Status:  Uncommon to rare in southern and western Lower Peninsula. Declining due to habitat loss, collecting for pets, and road mortality. Protected by Michigan law as a special concern species.",
+     "moreinfo": "http://www.michigan.gov/dnr/0,4570,7-153-10370_12145_12201-60648--,00.html",
+     "thumb": "boxThumb.png",
+     "photos": [
+       {"src" :"box1.png"},
+       {"src" :"box2.png"},
+       {"src" :"box3.png"},
+       {"src" :"box4.png"}
+     ]
+   },
+   {
+     "id": "Apalonespiniferaspinifera",
+     "commonname": "Spiny Soft-shell Turtle",
+     "latinname": "Apalone spinifera spinifera",
+     "narrative": "Identification:  Smooth, flat, rubbery, skin-covered shell lacks scutes and has flexible edges. Brown or olive carapace covered with black circles and spots in males and juveniles, dark blotches in females. Nose long and pig like, all feet fully webbed. Photo © Jim Harding Adult female carapace length:  7 to 19 inches (18 to 48 cm). Adult male carapace length:  5 to 9.25 inches (12.7 to 23 cm). Habitat:  Rivers, lakes, impoundments with sand or mud bottom with little vegetation. Habits:  Will bask on logs or banks; often bury themselves in sand or mud in shallow water. They rarely move over land except to nest. These turtles are very fast swimmers and agile on land; will bite in self defense. They eat crayfish, insects, tadpoles, and occasionally small fish. Reproduction:  Mostly in June, females dig a nest cavity in sunny spot near water, deposit 4 to 38 round, hard shelled eggs. Eggs hatch in August or September. Range and Status:  Common in southern and north central Lower Peninsula. Threatened by pollution, over-harvest, and shoreline development.",
+     "moreinfo": "http://www.michigan.gov/dnr/0,4570,7-153-10370_12145_12201-60654--,00.html",
+     "thumb": "softThumb.png",
+     "photos": [
+       {"src" :"soft1.png"},
+       {"src" :"soft2.png"},
+       {"src" :"soft3.png"},
+       {"src" :"soft4.png"}
+     ]
+   },
+   {
+     "id": "Chelydraserpentina",
+     "commonname": "Common Snapping Turtle",
+     "latinname": "Chelydra serpentina",
+     "narrative": "Identification:  Broad gray, brown, or olive (often algae covered) carapace with jagged rear edge. Plastron small, cross shaped. Tail very long, topped with row of large triangular scales. Photo © Jim Harding Adult carapace length:  8 to 19.3 inches (20 to 49 cm). Michigan's largest turtle. Habitat:  Ponds, marshes, lakes, streams, slow rivers and other water habitats. Fairly pollution tolerant. Habits:  Snappers bask less than other species. They eat almost any small animal they can catch (insects, crayfish, tadpoles, etc.), as well as carrion and aquatic plants. Dangerous if molested on land, less likely to bite under water. Reproduction:  Females bury from 10 to 96 round eggs in a sunny spot, usually in June. The black, long tailed hatchlings emerge in 55 to 125 days. Range and Status:  Common statewide, but locally depleted due to over-harvest.",
+     "moreinfo": "http://www.michigan.gov/dnr/0,4570,7-153-10370_12145_12201-60643--,00.html",
+     "thumb": "snappingThumb.png",
+     "photos": [
+       {"src" :"snapping1.png"},
+       {"src" :"snapping2.png"},
+       {"src" :"snapping3.png"},
+       {"src" :"snapping4.png"}
+     ]
+   },
+   {
+     "id": "Sternotherusodoratus",
+     "commonname": "Common Musk Turtle",
+     "latinname": "Sternotherus odoratus",
+     "narrative": "Identification:  Carapace narrow and high arched; black or brown, often algae covered. Plastron small, with skin between scutes. Snout pointed, usually two yellow stripes on side of head. Tail very short. Photo © Jim Harding Adult carapace length:  3.25 to 5.37 inches (8.3 to 13.6 cm). Habitat:  In Michigan, mostly inhabits clear lakes with sand or marl bottoms. Habits:  Rarely bask, are generally seen foraging along the bottom in shallow water. May be nocturnal in summer. They eat snails, crayfish, insects, tadpoles, etc. If disturbed, glands along lower edge of shell secrete a foul-smelling musk, hence the common name stinkpot. Reproduction:  Females deposit 2 to 9 elliptical, hard shelled eggs in ground or under shoreline debris. Eggs hatch in late summer or fall. Hatchlings are less than one inch long. Range and Status:  Common in southern Lower Peninsula, but threatened by lakeshore development.",
+     "moreinfo": "http://www.michigan.gov/dnr/0,4570,7-153-10370_12145_12201-60646--,00.html",
+     "thumb": "muskThumb.png",
+     "photos": [
+       {"src" :"musk1.png"},
+       {"src" :"musk2.png"},
+       {"src" :"musk3.png"},
+       {"src" :"musk4.png"}
+     ]
+   },
+   {
+     "id": "Emysblandingii",
+     "commonname": "Blanding's Turtle",
+     "latinname": "Emys blandingii",
+     "narrative": "Identification:  Carapace smooth and dome like, black, often with yellow speckles. Plastron with crosswise hinge, yellow with black outer blotches. Head and upper neck black, throat and lower neck bright yellow. Male has concave plastron. Photo © Jim Harding Adult carapace length:  6 to 10.75 inches (15.2 to 27.4 cm). Habitat:  Shallow, weedy ponds, marshes, river backwaters and sloughs. Habits:  Mostly aquatic, but often travel over land to find nest sites, mates, or new habitat. Timid, depends on shell for protection. They eat crayfish, insects, tadpoles, carrion, etc. Reproduction:  Females nest in June, burying 3 to 21 elliptical eggs in the ground. The dark colored, long tailed hatchlings emerge in August or September. Range and Status:  Common in the Lower Peninsula; rare in the Upper Peninsula. Threatened by wetland degradation and road mortality. Protected by Michigan law as a special concern species.",
+     "moreinfo": "http://www.michigan.gov/dnr/0,4570,7-153-10370_12145_12201-60647--,00.html",
+     "thumb": "blandingsThumb.png",
+     "photos": [
+       {"src" :"blandings1.png"},
+       {"src" :"blandings2.png"},
+       {"src" :"blandings3.png"},
+       {"src" :"blandings4.png"}
+     ]
+   },
+   {
+     "id": "Chrysemyspicta",
+     "commonname": "Painted Turtle",
+     "latinname": "Chrysemys picta",
+     "narrative": "Identification:  The low, smooth carapace is black or olive, with red markings along or under the margins. Plastron yellow or orange with dark central blotch or figure. Head yellow striped, neck and limbs red or yellow striped. Photo © Jim Harding Adult carapace length:  4 to 9.8 inches (10 to 25 cm). Habitat:  Prefer shallow, weedy waters with mud bottom (ponds, lakes, marshes). Habits:  Much time spent basking; may move over land to find new habitat or nest site. They eat aquatic plants and seeds, insects, snails, tadpoles, carrion, etc. Reproduction:  Males have very long front claws, used to tickle females during courtship. Females nest late May to early July; 4 to 20 elliptical, soft shelled eggs are buried in sunny spot. Incubation takes 70 to 80 days, but hatchlings will often spend the winter in the nest and emerge in spring. Range and Status:  Common statewide. Midland Painted turtle ( ) in Lower Peninsula has narrow plastral blotch. Western Painted turtle ( ), with expanded plastral blotch, intergrades with Midland throughout the Upper Peninsula.",
+     "moreinfo": "http://www.michigan.gov/dnr/0,4570,7-153-10370_12145_12201-60649--,00.html",
+     "thumb": "paintedThumb.png",
+     "photos": [
+       {"src" :"painted1.png"},
+       {"src" :"painted2.png"},
+       {"src" :"painted3.png"},
+       {"src" :"painted4.png"}
+     ]
+   },
+   {
+     "id": "Trachemysscriptaelegans",
+     "commonname": "Red-eared Slider",
+     "latinname": "Trachemys scripta elegans",
+     "narrative": "Identification:  Greenish or brown carapace marked with yellow and black bands or stripes. Plastron is yellowish, with black blotch in each scute. Skin of head, neck, limbs is greenish with yellow stripes; red or orange band behind each eye. Photo © Jim Harding Adult carapace length:  5 to 11 inches (12.7 to 28 cm). Habitat:  Quiet waters with abundant plant growth and basking sites (logs, etc.). Habits:  Often bask in sun, ready to slide into the water if disturbed, hence common name. Feeds on aquatic plants, crayfish, snails, insects, carrion, etc. Reproduction:  Males use long fore-claws to tickle female's head during courtship. In June, female buries 4 to 25 oval, soft shelled eggs in sunny spot. Incubation takes 65 to 80 days.  Range and Status:  Found in Muskegon and Lansing areas, Oakland County, and perhaps elsewhere. Possibly introduced through pet trade importation.",
+     "moreinfo": "http://www.michigan.gov/dnr/0,4570,7-153-10370_12145_12201-60650--,00.html",
+     "thumb": "sliderThumb.png",
+     "photos": [
+       {"src" :"slider1.png"},
+       {"src" :"slider2.png"},
+       {"src" : "slider3.png"},
+       {"src" :"slider4.png"}
+     ]
+   },
+   {
+     "id": "Graptemysgeographica",
+     "commonname": "Common Map Turtle",
+     "latinname": "Graptemys geographica",
+     "narrative": "Identification:  Green, olive, or brown carapace has irregular (map like) markings and a low central keel. Plastron light yellow. Narrow yellow stripes on head and limbs; yellow spot behind eye. Females have big heads, very wide jaws. Photo © Jim Harding Adult female carapace length:  6.7 to 10.7 inches (17 to 27.2 cm). Adult male carapace length:  4 to 6.3 inches (10 to 16 cm). Habitat:  Larger lakes, rivers, oxbow sloughs with ample basking places. Habits:  Often seen basking on logs, but they dive off at least disturbance. Females crush snails, other mollusks, and crayfish in strong jaws; narrow headed males eat smaller mollusks and insects. Reproduction:  Between late May and early July, females bury 6 to 20 oval, soft-shelled eggs near water. Eggs hatch in 65 to 80 days. Hatchlings either emerge and head for water or stay in nest until spring. Range and Status:  Found in southern and western Lower Peninsula.",
+     "moreinfo": "http://www.michigan.gov/dnr/0,4570,7-153-10370_12145_12201-60652--,00.html",
+     "thumb": "mapThumb.png",
+     "photos": [
+       {"src" :"map1.png"},
+       {"src" :"map2.png"},
+       {"src" :"map3.png"},
+       {"src" :"map4.png"}
+     ]
+   },
+   {
+     "id": "Glyptemysinsculpta",
+     "commonname": "Wood Turtle",
+     "latinname": "Glyptemys insculpta",
+     "narrative": "Life History and Michigan History As its scientific name,  , implies, the shell of the wood turtle is one of the most ornate of the turtles in Michigan. A noticeable keel running down the back of the carapace and the pointed edges of the scutes along the back edge add to its sculpted appearance. The yellow on the underparts of its neck, legs, and stomach, plus the highly visible deep circular growth rings of the scutes on the brownish carapace help with identification. The adult carapace length is 6.3 to 9.4 inches (16 to 24 cm). Photo © Jim Harding Wood turtles live in rivers with sandy-bottomed streams and rivers. They spend most of their time in the river from September to May, but in summer can be found foraging in woods, swamps, and meadows in the upland areas edging the stream or river. Logs or banks near water and sunny woodland openings are often utilized for basking. These turtles are omnivores eating a variety of plants and animals and carrion found in and along the river. Wood turtles employ a unique technique to hunt earthworms. Using either an alternating foot stomp, or by lifting and dropping its shell on the ground, they create vibrations in the ground. These vibrations will cause earthworms to surface where they are quickly snatched for a meal. Anglers seeking bait can employ a similar technique. A stick stuck in the ground and wiggled back and forth to create vibrations will cause earthworms to leave the ground. Egg-laying occurs in the sunny areas of exposed river sand banks. Females lay 3-to-18 soft-shelled eggs in a cavity they dig in late-May or June. After about six weeks of incubation in the warm sand, brownish, long-tailed nestlings hatch and head to the water. It may take as many as 20 years before these new hatchlings begin to produce offspring of their own. The population of wood turtles in Michigan has declined in recent years and is considered rare in the northern Lower and Upper Peninsulas. It is protected by Michigan law as a special concern species. Threats include predation by raccoons and skunks. In some areas, egg and hatchling mortality can exceed 80 percent. Water pollution and sedimentation can impact survival of turtles. Reduction of nesting areas through stream bank stabilization has impacted turtle populations in local areas. The commercial pet trade and removal of individual turtles for personal pets has also reduced populations. The future for this relict of the time of dinosaurs is uncertain, but finding solutions to a number of the threats is important in making sure the wood turtle remains part of Michigan's Wildlife Heritage. Non-DNR Links (University of Michigan, Museum of Zoology) Wood Turtle  (Wisconsin Dept. of Natural Resources)  (NatureServe)",
+     "moreinfo": "http://www.michigan.gov/dnr/0,4570,7-153-10370_12145_12201-33033--,00.html",
+     "thumb": "woodThumb.png",
+     "photos": [
+       {"src" :"wood1.png"},
+       {"src" :"wood2.png"},
+       {"src" :"wood3.png"},
+       {"src" :"wood4.png"}
+     ]
+   },
+   {
+     "id": "Clemmysguttata",
+     "commonname": "Spotted Turtle",
+     "latinname": "Clemmys guttata",
+     "narrative": "Life History and Michigan History Identification:  Carapace smooth, black, covered with scattered round yellow spots. Plastron without a hinge. Head black with yellow or orange spots and blotches. Lower jaw of male is brown or black; the female's is yellow or orange. Photo © Jim Harding Adult carapace length:  3.5 to 5 inches (9 to 12.7 cm). Habitat:  Bogs or boggy ponds, fens, sphagnum seepages, and grassy marshes. Prefer shallow, clean water with mud bottom, clumps of sedge or marsh grass. Habits:  A cold tolerant species that becomes active and mates early in spring; often inactive or dormant in hot weather. Begins to decrease activity when water temperatures cool to 32 degrees Fahrenheit. Enters hibernation in muskrat burrows or loafs through the winter on the bottom of pools with flowing water. Has the ability to breathe through the skin when under water. Gill-like tissues filter oxygen from the water directly into blood.  Eats small animals (e.g., insects, worms, snails, slugs, crayfish, etc.), plants, and fruit. Reproduction:  In June, female lays 2 to 7 oval, soft shelled eggs in a sunny location within a cavity dug in soil or plant debris. Incubation takes 45 to 83 days, but hatchlings may not emerge until the following spring. Hatchlings usually have one spot in each carapace scute but are occasionally spotless. Range and Status:  Rare in southern and western Lower Peninsula. Threatened by wetland drainage and collecting. Protected by Michigan law as a threatened species. You Can Help Non-DNR Links  (University of Michigan, Museum of Zoology)",
+     "moreinfo": "http://www.michigan.gov/dnr/0,4570,7-153-10370_12145_12201-33028--,00.html",
+     "thumb": "spottedThumb.png",
+     "photos": [
+       {"src" :"spotted1.png"},
+       {"src" :"spotted2.png"},
+       {"src" :"spotted3.png"},
+       {"src" :"spotted4.png"}
+     ]
+   }
+  ],
+  "frogs" : [
+    {
+      "id": "Bufofowleri",
+      "commonname": "Fowler's Toad",
+      "latinname": "Bufo fowleri",
+      "narrative": "DESCRIPTION:  Like American Toad, but throat and belly is usually plain colored and has more warts (3 or more) in each dark spot on the back. 2 to 31/2 inches long. Photo © Jim Harding HABITAT:  Woodlands, often with sandy soil, such as Lake Michigan dune woodlands. BREEDING:  May-June, in ponds. Eggs in long strings. Tadpoles transform in mid to late summer. Tiny toadlets almost identical to American Toad. VOICE:  A short, bleating cry, like a lamb, but quite unlike the American Toad's trill. RANGE AND STATUS:  Extreme western and southern Lower Peninsula.",
+      "moreinfo": "http://www.michigan.gov/dnr/0,4570,7-153-10370_12145_12201-60112--,00.html",
+      "thumb": "frogThumb.png",
+      "photos": [
+        {"src" :"frog1.png"},
+        {"src" :"frog2.png"},
+        {"src" :"frog3.png"},
+        {"src" :"frog4.png"}
+      ]
+    },
+    {
+      "id": "Ranaclamitans",
+      "commonname": "Green Frog",
+      "latinname": "Rana clamitans",
+      "narrative": "DESCRIPTION:  A large green, brown, or olive frog, 2 1/2 to 4 inches long. Some have blotchy markings on the back and/or sides. Has a fold of skin from eardrum down each side of back; the similar appearing, but larger, Bullfrog lacks these folds. Undersides are white, sometimes dappled with gray. Throat is yellow in the male, white in the female. Upper lip area is green or yellow. Photo © Jim Harding HABITAT:  Permanent ponds, lakes, marshes, wooded swamps, banks of streams. Eats insects, smaller frogs, and other small prey. BREEDING:  May-July, in permanent waters. Floating egg masses may hold over 4000 eggs. Tadpoles often take two seasons to transform into frogs. VOICE:  An emphatic clung, like picking a banjo string. Short and loud. RANGE AND STATUS:  Common statewide.",
+      "moreinfo": "http://www.michigan.gov/dnr/0,4570,7-153-10370_12145_12201-60117--,00.html",
+      "thumb": "frogThumb.png",
+      "photos": [
+        {"src" :"frog1.png"},
+        {"src" :"frog2.png"},
+        {"src" :"frog3.png"},
+        {"src" :"frog4.png"}
+      ]
+
+    },
+    {
+      "id": "Ranaseptentrionalis",
+      "commonname": "Mink Frog",
+      "latinname": "Rana septentrionalis",
+      "narrative": "DESCRIPTION:  A blotchy, spotted, greenish or brownish frog. Similar to Green Frog, but has spots or blotches instead of cross bands on the hind legs. Bright green upper lip and creamy to yellowish belly. Produces a musky, mink like odor when handled. Medium - 2 to 3 inches long. Photo © Jim Harding HABITAT:  Bogs, ponds, and lake edges. Remains close to permanent water. BREEDING:  June-July. Eggs laid on vegetation in deep water. Tadpoles may require more than one summer to become frogs. VOICE:  Likened to distant hammering; Kuk, kuk, kuk, kuk, kuk. RANGE AND STATUS:  Found throughout Upper Peninsula, but generally uncommon.",
+      "moreinfo": "http://www.michigan.gov/dnr/0,4570,7-153-10370_12145_12201-60116--,00.html",
+      "thumb": "frogThumb.png",
+      "photos": [
+        {"src" :"frog1.png"},
+        {"src" :"frog2.png"},
+        {"src" :"frog3.png"},
+        {"src" :"frog4.png"}
+      ]
+    },
+    {
+      "id": "Pseudacristriseriatatriseriata",
+      "commonname": "Western Chorus Frog",
+      "latinname": "Pseudacris triseriata triseriata",
+      "narrative": "DESCRIPTION:  A tiny brownish frog with dark stripes on back and a dark band that runs from the nose to top of front leg, through the eye. 1 to 1 1/2 inches long. Photo © Jim Harding HABITAT:  Wet meadows, marshes, woodlands. Rarely seen after breeding season. BREEDING:  March-May. In temporary ponds and floodings. Eggs in small masses. Tadpoles transform into frogs in 2 to 3 months. VOICE:  A raspy, rising trill cree ee k similar to the noise made by strumming the small teeth of a pocket comb. RANGE AND STATUS:  Common throughout Lower Peninsula, but rare in the Upper Peninsula. NOTES:  One of the first species to call in the spring. The Boreal Chorus Frog,  , is similar in appearance but occurs only on Isle Royale. ",
+      "moreinfo": "http://www.michigan.gov/dnr/0,4570,7-153-10370_12145_12201-60105--,00.html",
+      "thumb": "frogThumb.png",
+      "photos": [
+        {"src" :"frog1.png"},
+        {"src" :"frog2.png"},
+        {"src" :"frog3.png"},
+        {"src" :"frog4.png"}
+      ]
+    },
+    {
+      "id": "H.chrysoscelis",
+      "commonname": "Gray Treefrogand",
+      "latinname": "H. chrysoscelis",
+      "narrative": "DESCRIPTION:  Tree frogs have large, sticky toe pads. Color can change gray, green, or brown, according to environment or activity. Underside of hind legs yellow. 1 1/2 to 2 inches long. (The two species, Eastern and Cope's, are very similar in appearance and habits). Photos © Jim Harding HABITAT:  Woods, swamps, backyards. Able to climb vertically, or move horizontally, with specially adapted toe pads. BREEDING:  May, in woodland ponds. Males call from low vegetation, near or over water. Eggs in small cluster. Transformation of tadpoles by mid to late summer. VOICE:  A short musical trill. Often heard before and after breeding season on warm nights. Trills of the two species sound different. RANGE AND STATUS:  Common statewide. Relative distribution of the two sibling species is poorly known. NOTES:  They will often cling to windows of houses at night.",
+      "moreinfo": "http://www.michigan.gov/dnr/0,4570,7-153-10370_12145_12201-60110--,00.html",
+      "thumb": "frogThumb.png",
+      "photos": [
+        {"src" :"frog1.png"},
+        {"src" :"frog2.png"},
+        {"src" :"frog3.png"},
+        {"src" :"frog4.png"}
+      ]
+    },
+    {
+      "id": "Bufoamericanus",
+      "commonname": "Eastern American Toad",
+      "latinname": "Bufo americanus",
+      "narrative": "DESCRIPTION:  Common hop toad of gardens and yards. Brownish skin is very warty. Short, but large and muscular hind legs allow it to move more easily through woodlands and backyards. Throat and belly white speckled with black. Large - 2 to 4 inches long. Photo © Jim Harding HABITAT:  Woodlands, shady backyards. Needs a cool daytime shelter, loose soils, and an insect food source (Great for gardens!) BREEDING:  April-May, in woodland ponds or other shallow waters. Eggs laid in long strings. Blackish tadpoles transform into toadlets in June or July. VOICE:  A prolonged trill. RANGE AND STATUS:  Common statewide. NOTES:  Skin secretions are distasteful to predators, but do not cause warts in humans. A beneficial species in gardens, eats many insect pests - a modest-sized toad will eat about 3200 insects in a season. Will frequent night lights.",
+      "moreinfo": "http://www.michigan.gov/dnr/0,4570,7-153-10370_12145_12201-60111--,00.html",
+      "thumb": "frogThumb.png",
+      "photos": [
+        {"src" :"frog1.png"},
+        {"src" :"frog2.png"},
+        {"src" :"frog3.png"},
+        {"src" :"frog4.png"}
+      ]
+    },
+    {
+      "id": "Ranacatesbeiana",
+      "commonname": "Bullfrog",
+      "latinname": "Rana catesbeiana",
+      "narrative": "DESCRIPTION:  Our largest frog, 3 to 8 inches long. Resembles the Green Frog, but lacks the fold of skin from the eardrum down each side of the back. Throat color is yellow in males, white in females. Photo © Jim Harding HABITAT:  Permanent waters; lakes, ponds, river backwaters. Needs warm waters with abundant plant growth. BREEDING:  June-July, in ponds and lake edges. Large floating egg masses may contain 5000 to 10,000 eggs. Tadpoles need 2 to 3 summers before becoming frogs. VOICE:  A deep, low, rumbling croak, often written as jug o rum! RANGE AND STATUS:  statewide, but numbers have been reduced locally due to over-harvesting for frog legs. Now rare over much of state. NOTES:  Will sometimes eat small birds. Related Documents andgt;  Bullfrog Occurrences Map  - 104067 bytes",
+      "moreinfo": "http://www.michigan.gov/dnr/0,4570,7-153-10370_12145_12201-60118--,00.html",
+      "thumb": "frogThumb.png",
+      "photos": [
+        {"src" :"frog1.png"},
+        {"src" :"frog2.png"},
+        {"src" :"frog3.png"},
+        {"src" :"frog4.png"}
+      ]
+    },
+    {
+      "id": "Ranasylvatica",
+      "commonname": "Wood Frog",
+      "latinname": "Rana sylvatica",
+      "narrative": "DESCRIPTION:  A brown or tan frog with a dark band (robber's mask) through the eye and a white stripe on the upper lip. Small to medium - 2 to 21/2 inches long. Photo © Jim Harding HABITAT:  Woodlands, wooded swamps. BREEDING:  March-April, in woodland ponds and swamps often before ice is completely melted from pond. Egg masses are globular; many females may deposit in one area, often in deepest part of pond. Tadpoles will transform about 2 months later. VOICE:  A duck like quack, some describe it as a lot of chuckling.  RANGE AND STATUS:  Common in moist wooded habitats state-wide.",
+      "moreinfo": "http://www.michigan.gov/dnr/0,4570,7-153-10370_12145_12201-60113--,00.html",
+      "thumb": "frogThumb.png",
+      "photos": [
+        {"src" :"frog1.png"},
+        {"src" :"frog2.png"},
+        {"src" :"frog3.png"},
+        {"src" :"frog4.png"}
+      ]
+    },
+    {
+      "id": "Ranapipiens",
+      "commonname": "Northern Leopard Frog",
+      "latinname": "Rana pipiens",
+      "narrative": "DESCRIPTION:  The familiar meadow frog with dark round spots on a background of green, greenish brown or brown. Legs may have dark spots or bars. A dark spot is seen above each eye and on the snout. A white line stretches from the nose to the shoulder, above the upper lip. Entirely white underneath. Medium - 2 to 3 1/2 inches long. Photo © Jim Harding HABITAT:  Wet meadows, grassy pond and lake edges. May wander well away from water after breeding season. BREEDING:  April-early May, in permanent ponds, marshes, and bogs. Egg masses may hold as many 6000 eggs. Tadpoles transform into frogs by mid summer. VOICE:  A low croaking snore. RANGE AND STATUS:  Found statewide. Once the most abundant frog, but numbers have fallen in recent years for reasons that are unclear. Now rare in some parts of the state.",
+      "moreinfo": "http://www.michigan.gov/dnr/0,4570,7-153-10370_12145_12201-60114--,00.html",
+      "thumb": "frogThumb.png",
+      "photos": [
+        {"src" :"frog1.png"},
+        {"src" :"frog2.png"},
+        {"src" :"frog3.png"},
+        {"src" :"frog4.png"}
+      ]
+    },
+    {
+      "id": "Ranapalustris",
+      "commonname": "Pickerel Frog",
+      "latinname": "Rana palustris",
+      "narrative": "DESCRIPTION:  Similar to Leopard Frog, however both spots on back and legs of Pickerel Frog are more square in shape, and insides of hind legs are bright yellow or orange. 2 to 3 inches long. Photo © Jim Harding HABITAT:  Pollution-free waters: grassy edged streams, bogs, clear ponds. Prefers cooler waters than Leopard Frog. BREEDING:  April-May, in ponds and slow backwaters. Globular egg masses may contain 2000 eggs. Tadpoles transform into frogs in late summer. VOICE:  A soft, short snore-like croak. RANGE AND STATUS:  Generally rare statewide, but may be locally common.",
+      "moreinfo": "http://www.michigan.gov/dnr/0,4570,7-153-10370_12145_12201-60115--,00.html",
+      "thumb": "frogThumb.png",
+      "photos": [
+        {"src" :"frog1.png"},
+        {"src" :"frog2.png"},
+        {"src" :"frog3.png"},
+        {"src" :"frog4.png"}
+      ]
+    },
+    {
+      "id": "Pseudacriscrucifer",
+      "commonname": "Northern Spring Peeper",
+      "latinname": "Pseudacris crucifer",
+      "narrative": "Life History and Michigan History The tinkling of bells is a popular description of the spring peeper's spring mating call. Spring peepers are one of the earliest callers among the dozen frog species found in Michigan. During the first warm evenings of spring in late March or early April through May, their distinctive single note, high pitched peep is considered a harbinger of spring. The intensity of calling increases and can become a deafening chorus during humid evenings or just after a warm spring rain when many males congregate. Only the male frogs call. They establish territories near the edge of permanent or ephemeral wetlands. They may call from elevated perches of submerged grass or shrubs near the water. The faster and louder a male sings, the more likely he is to attract a mate. Photo andcopy; Jim Harding The female will lay between 750-1,200 eggs. The strings or clumps are attached to twigs and aquatic vegetation. Depending on the temperatures, eggs may hatch within four days or may take up to two weeks during cooler periods. After another two to three months, young tadpoles are fully transformed into young frogs and leave the pond. They resemble their parents with the most distinctive mark being a dark brown X (may be irregular or incomplete on some) on their lighter brown or tan back. They begin feeding on small food items like spiders, mites, ticks, pill bugs, ants, and caterpillars. By the end of the summer, they have reached the adult size of about 1 - 1 1/2 inches. As the days cool, the peepers dig into the soft mud near ponds for the winter. Still, during warm spells into the fall they can be confused and emerge to give their spring mating call. The spring peeper is the most abundant of Michigan's singing frogs and is common statewide. They prefer damp woodlands, swamps, and marshes. However, they still need protection - local populations around small ponds and wetlands can be highly susceptible to surface water runoff. These waters can carry chemicals, pesticides, or silt that can kill adults, eggs, or tadpoles. Good soil erosion practices and the careful application of pesticides and fertilizers are good for spring peepers. It is our responsibility to make sure that we will always be able to open a window on a warm spring night and fall asleep to the tinkle of the spring peeper. Non-DNR Links",
+      "moreinfo": "http://www.michigan.gov/dnr/0,4570,7-153-10370_12145_12201-59138--,00.html",
+      "thumb": "frogThumb.png",
+      "photos": [
+        {"src" :"frog1.png"},
+        {"src" :"frog2.png"},
+        {"src" :"frog3.png"},
+        {"src" :"frog4.png"}
+      ]
+    },
+    {
+      "id": "Acriscrepitansblanchardi",
+      "commonname": "Blanchard's Cricket Frog",
+      "latinname": "Acris crepitans blanchardi",
+      "narrative": "Life History and Michigan History The Blanchard's cricket frog is a small (approx. 1 inch length), warty-skinned member of the tree frog family. They are usually brown or grayish with darker banding on their legs and often have a dark triangular mark between the eyes. Photo andcopy; Jim Harding Numbers of this species have declined drastically in recent years. They are found in the southern and western Lower Peninsula, inhabiting open, muddy or marshy edges of permanent ponds, lakes, bogs, floodplain ponds, and slow-moving streams and rivers. Cricket frogs usually emerge from hibernation in late March to early April and breed from mid-May to mid-July. During the breeding season, males give a distinctive, metallic clicking call, similar to the sound made when two pebbles are tapped together. The female lays eggs singly or in small clusters, which transform into tadpoles in late summer. Blanchard's cricket frogs were once abundant in southern Michigan, but during the late 1970s and early 1980s, many populations in Michigan and the Great Lakes basin declined dramatically or disappeared. Possible reasons include habitat loss from development and vegetational succession, pesticides or other chemical contaminants, and competition with other frog species. It currently is listed as a species of special concern in Michigan.  Please report any sightings of this frog to your local DNR office. Non-DNR Links",
+      "moreinfo": "http://www.michigan.gov/dnr/0,4570,7-153-10370_12145_12201-32986--,00.html",
+      "thumb": "frogThumb.png",
+      "photos": [
+        {"src" :"frog1.png"},
+        {"src" :"frog2.png"},
+        {"src" :"frog3.png"},
+        {"src" :"frog4.png"}
+      ]
+    }
+  ],
+  "salamanders": [
+    {
+      "id": "Sirenintermedianettingi",
+      "commonname": "Western Lesser Siren",
+      "latinname": "Siren intermedia nettingi",
+      "narrative": "Description:  A long, eel like salamander with bushy external gills, a flattened tail, and tiny front legs (and no hind legs). Color is gray, brown, or olive. Adults are 7 to 19.7 inches (118 to 50 cm) long. Photo © Jim Harding Habitat/Habits:  In Michigan, known only from shallow lake edges in Allegan and Van Buren counties. Still, muddy waters with abundant plant growth are preferred habitats. Sirens can move overland in damp weather to colonize new habitats. They eat small invertebrate animals, including insects, crayfish, and snails. Breeding:  Mating habits are poorly known. Two hundred or more eggs are laid by the female, in shallow bottom depressions. Larvae mature in about 2 to 3 years. Conservation:  Sirens have not been seen in Michigan for many years, but are secretive and easily over looked. Primary range extends from northern Indiana to the U.S. Gulf coast and Florida. Report any Michigan sightings of this species to the DNR Wildlife Division.",
+      "moreinfo": "http://www.michigan.gov/dnr/0,4570,7-153-10370_12145_12201-61167--,00.html",
+      "thumb": "salamanderThumb.png",
+      "photos": [
+        {"src" :"salamander1.png"},
+        {"src" :"salamander2.png"},
+        {"src" :"salamander3.png"},
+        {"src" :"salamander4.png"}
+      ]
+    },
+    {
+      "id": "Plethodoncinereus",
+      "commonname": "Red-backed Salamander",
+      "latinname": "Plethodon cinereus",
+      "narrative": "Description:  A thin bodied little salamander that occurs in two common color phases. The redback phase has a reddish or orange stripe down the back and tail, bordered by darker sides. The leadback phase lacks the stripe, and has a dark colored back, sometimes speckled with faint light spots. In both the belly is mottled with a white and gray salt and pepper pattern. Adults are 2.3 to 5 inches (5.8 to 12.7 cm) long. (Note that these salamanders sometimes lose portions of their tails during encounters with predators.) Photo © Jim Harding Habitat/Habits:  Found state wide in woodlands, especially deciduous woods with thick leaf litter and many decaying logs or stumps. Food is mostly small insects and other invertebrates. Breeding:  Unique among Michigan salamanders in not requiring water to reproduce; young go through larval stage in the egg. (See notes on this species under Salamander Reproduction above.) Eggs laid in early summer usually hatch in August. Conservation:  This common salamander is a key species in the woodland ecosystem; their abundance can signify a healthy forest environment. If their woodland habitat is severely modified or destroyed, these salamanders soon disappear.",
+      "moreinfo": "http://www.michigan.gov/dnr/0,4570,7-153-10370_12145_12201-61175--,00.html",
+      "thumb": "salamanderThumb.png",
+      "photos": [
+        {"src" :"salamander1.png"},
+        {"src" :"salamander2.png"},
+        {"src" :"salamander3.png"},
+        {"src" :"salamander4.png"}
+      ]
+    },
+    {
+      "id": "Ambystomatexanum",
+      "commonname": "Small-mouthed Salamander",
+      "latinname": "Ambystoma texanum",
+      "narrative": "Description:  As its name implies, this species has a small head and a short, blunt snout. The background color is black, gray, or brown, with an irregular pattern of grayish blotches and spots over the head, back, and tail. Breeding individuals in ponds are often paler in color than they will appear later in summer. Adults are 4.3 to 7 inches (11 to 17.8 cm) long. Note: Small mouthed Salamanders sometimes hybridize with Blue-spotted and related salamanders in the western Lake Erie basin. Photo and#169; Jim Harding Habitat/Habits:  In its limited southeastern Michigan range, this salamander prefers moist hardwood forest habitat; farther south the species is also found in fragmented woodlands, fields, and farming areas. Breeding:  Breeding habits are similar to those of the Blue spotted Salamander, described under Salamander Reproduction above. Small mouthed Salamanders sometimes breed in ponds, floodings, or ditches outside of wooded areas. Conservation:  The range of the Small mouthed Salamander barely enters Michigan in a few southeastern counties; it is listed as an Endangered Species by the Department of Natural Resources. Identifying existing colonies and protecting critical habits will be needed to ensure that it remains a viable part of Michigan's fauna. Status:  Endangered in Michigan.",
+      "moreinfo": "http://www.michigan.gov/dnr/0,4570,7-153-10370_12145_12201-61174--,00.html",
+      "thumb": "salamanderThumb.png",
+      "photos": [
+        {"src" :"salamander1.png"},
+        {"src" :"salamander2.png"},
+        {"src" :"salamander3.png"},
+        {"src" :"salamander4.png"}
+      ]
+    },
+    {
+      "id": "Ambystomatigrinumtigrinum",
+      "commonname": "Eastern Tiger Salamander",
+      "latinname": "Ambystoma tigrinum tigrinum",
+      "narrative": "Description:  Michigan's largest land living salamander is a robust animal with a broad, rounded snout and small eyes. The background color is black, brown, or olive, with scattered yellow or brownish blotches, spots, and streaks over the head, back, and tail. The larger aquatic larvae are usually greenish or grayish, speckled with black, with prominent feathery gills behind the head. The larvae resemble small Mudpuppies, but have five (instead of four) toes on each hind foot. Adults are 7 to 13 inches (17.8 to 33 cm) long. Photo © Jim Harding Habitat/Habits:  Tiger Salamanders inhabit woodlands, meadows, marshes, and suburban areas, spending most of their time in burrows underground. Found in Michigan's western and southern Lower Peninsula, and in Alger County in the Upper Peninsula. They eat insects, worms, slugs, snails, and smaller salamanders. Breeding:  Breeding habits are similar to those described for the Blue spotted Salamander (see Salamander Reproduction above). Tiger Salamanders breed in a wide variety of ponds and wetlands, including stock and ornamental ponds and even shallow lake edges. Their large larvae often eat smaller amphibian larvae. Conservation:  Tiger Salamanders are less tied to woodland habitats than their smaller relatives, and can sometimes survive in deforested farm and suburban areas. They are sensitive to the contamination of breeding ponds by farm and lawn chemicals, and soon disappear from polluted habitats.",
+      "moreinfo": "http://www.michigan.gov/dnr/0,4570,7-153-10370_12145_12201-61173--,00.html",
+      "thumb": "salamanderThumb.png",
+      "photos": [
+        {"src" :"salamander1.png"},
+        {"src" :"salamander2.png"},
+        {"src" :"salamander3.png"},
+        {"src" :"salamander4.png"}
+      ]
+    },
+    {
+      "id": "Necturusmaculosus",
+      "commonname": "Mudpuppy",
+      "latinname": "Necturus maculosus",
+      "narrative": "Description:  A large permanently aquatic salamander with flattened tail and reddish gills behind its head. Body color is brown or gray brown with darker, scattered blotches. Adults are 8 to 19 inches (20 to 48 cm) long. Photo © Jim Harding Habitat/Habits:  Found state wide in inland lakes, Great Lakes bays and marshes, rivers, and reservoirs. Shallow waters are preferred in spring, but occur at depths of up to 100 feet (30 m) in winter and summer. Mudpuppies eat crayfish, insect larvae, worms, snails, small fish, and smaller amphibians and their larvae. Breeding:  Females often guard their 18 to 100 eggs, which are laid under flat rocks, logs, or other submerged object. Larvae mature in 4 to 6 years. Conservation:  Mudpuppies have declined in many Michigan lakes and streams. They are sensitive to chemical pollutants, and are unfortunately often destroyed by people who catch them while fishing. Mudpuppies are generally harmless to human interests.",
+      "moreinfo": "http://www.michigan.gov/dnr/0,4570,7-153-10370_12145_12201-61165--,00.html",
+      "thumb": "salamanderThumb.png",
+      "photos": [
+        {"src" :"salamander1.png"},
+        {"src" :"salamander2.png"},
+        {"src" :"salamander3.png"},
+        {"src" :"salamander4.png"}
+      ]
+    },
+    {
+      "id": "Hemidactyliumscutatum",
+      "commonname": "Four-toed Salamander",
+      "latinname": "Hemidactylium scutatum",
+      "narrative": "Description:  This small, slender salamander is orange to grayish brown above, sometimes with small black and bluish speckles on the sides. The tail is constricted (narrows) at its base, and there are only four toes on each hind foot (most salamanders have five toes). Adults are 2 to 4 inches (5 to 10 cm) long. (Note that these salamanders may lose portions of their tails during encounters with predators). Photo © Jim Harding Habitat/Habits:  Found throughout much of the state, but only where boggy ponds or spring fed creeks are available in or near damp wooded habitat. When not breeding, they take refuge under rotting logs and leaf litter. They eat insects and insect larvae, spiders, worms, and other small invertebrates. Breeding:  The female lays her eggs in spring, in a clump of moss, leaf litter, or rotting wood overhanging a pond, creek, or seepage. She usually attends the eggs during the month or two of incubation; occasionally more than one female will lay eggs at the same site. Upon hatching, the larvae drop into the water and complete development, with metamorphosis occurring in about six weeks. Conservation:  The spotty distribution of the Four toed Salamander is probably due to the specialized breeding habitat it requires. As humans modify the landscape, the salamander populations can become isolated and vulnerable to extinction. Preserving the boggy habitats of this species will also protect many other unique animals and plants.",
+      "moreinfo": "http://www.michigan.gov/dnr/0,4570,7-153-10370_12145_12201-61176--,00.html",
+      "thumb": "salamanderThumb.png",
+      "photos": [
+        {"src" :"salamander1.png"},
+        {"src" :"salamander2.png"},
+        {"src" :"salamander3.png"},
+        {"src" :"salamander4.png"}
+      ]
+    },
+    {
+      "id": "Ambystomamaculatum",
+      "commonname": "Spotted Salamander",
+      "latinname": "Ambystoma maculatum",
+      "narrative": "Description:  A chunky bodied black or dark gray salamander with two rows of round yellow spots running from head to tail. Rarely, spots are tan or white, or even absent. Sides are usually unspotted, and the belly is grayish to purplish. Adults are 4.3 to 9.8 inches (110.8 to 24.8 cm) long. Photo © Jim Harding Habitat/Habits:  Formerly found state wide, Spotted Salamanders prefer mature, moist woodlands with access to vernal ponds for breeding. They spend most of the year in underground burrows, but are sometimes found under rotting logs or leaf litter. Small invertebrates, such as worms, insects, spiders, slugs, and snails are eaten. Breeding:  Breeding habits are very similar to those of the Blue spotted Salamander, described above under Salamander Reproduction. Spotted Salamander egg masses tend to be quite dense, and are often invaded by a harmless green algae. The eggs hatch in 20 to 60 days, and the larvae transform about 60 to 90 days later. Breeding size is reached in 3 to 5 years. Conservation:  This species requires fairly mature woodlands, and soon disappears when logging or development opens up the habitat, reducing humidity and eliminating traditional breeding sites. Becoming rare in many parts of Michigan.",
+      "moreinfo": "http://www.michigan.gov/dnr/0,4570,7-153-10370_12145_12201-61171--,00.html",
+      "thumb": "salamanderThumb.png",
+      "photos": [
+        {"src" :"salamander1.png"},
+        {"src" :"salamander2.png"},
+        {"src" :"salamander3.png"},
+        {"src" :"salamander4.png"}
+      ]
+    },
+    {
+      "id": "Notophthalmusviridescens",
+      "commonname": "Eastern Newt",
+      "latinname": "Notophthalmus viridescens",
+      "narrative": "Description:  Small salamanders that live in both aquatic and terrestrial (eft) forms. The aquatic adult is olive green to greenish brown above, with a yellow, black spotted belly. The tail is flattened. The land-living eft is reddish brown to bright red or orange, with a rounded tail. The skin appears rough, but is soft to the touch. Two subspecies merge in Michigan: the Red-spotted Newt ( ) has two rows of black bordered red spots on the back. The smaller Central Newt ( ) may lack red spots, or may have red spots that lack black borders. Adult newts are 2.5 to 5.5 inches (6.4 to 14 cm) long. Photo © Jim Harding Habitat/Habits:  Found state-wide, newts prefer small, permanent ponds, but also live in vernal ponds, sloughs, marshes, bogs, swamps and lake shallows. Efts are usually found in nearby woods, under rotting logs, rocks, and other shelters. Adults are active all year under water, but can hibernate on land if the pond dries up. Insects, worms, crustaceans, mollusks, other small invertebrates, and tadpoles are eaten. Their toxic skin secretions cause many fish to avoid eating them. Breeding:  Adults breed in late winter and early spring. Courtship is elaborate, with much nudging, twitching, and tail fanning by the male. Females attach up to 300 single eggs to underwater plants or debris in April. In late summer, the gill breathing larvae may transform directly into the aquatic adult stage or become efts that live on land for a year or two before returning to the water. Conservation:  Newts can be locally common in Michigan, but rarely achieve the high densities seen in some eastern and southern states. Newts disappear when habitats are degraded or polluted. They may benefit from construction of artificial ponds, especially if predatory fish are not introduced.",
+      "moreinfo": "http://www.michigan.gov/dnr/0,4570,7-153-10370_12145_12201-60848--,00.html",
+      "thumb": "salamanderThumb.png",
+      "photos": [
+        {"src" :"salamander1.png"},
+        {"src" :"salamander2.png"},
+        {"src" :"salamander3.png"},
+        {"src" :"salamander4.png"}
+      ]
+    },
+    {
+      "id": "Ambystomaopacum",
+      "commonname": "Marbled Salamander",
+      "latinname": "Ambystoma opacum",
+      "narrative": "Life History This is a chunky bodied, black or dark brown salamander with bold white or gray markings on the head, back, and tail. The light, silvery  markings form cross-bands that run the length of the back and may merge into a stripe on each side. Adults are 3.5 to 5 inches (9 to 12.7 cm) long. Photo andcopy; Jim Harding Just about the time most other amphibians are looking for places to winter hibernate, marbled salamanders are heading to breeding areas. The only fall breeding salamander, they seek out small areas (micro habitats) with temperatures around 60anddeg;F. The female will lay an average of 100 eggs in a nest constructed in a shallow depression under leaf litter or in a log. The female remains with the eggs until fall rains fill the nest site. Eggs will hatch within two weeks. In mild winters, larvae can feed and grow and transform in late spring or early summer. If the nest site does not flood, eggs will go dormant until the following spring. The salamander larvae that do not hatch in fall metamorphose into terrestrial adults in late spring or June or July. Uniquely, Marbled Salamanders breed in fall instead of spring. Females lay eggs in depressions under leaf litter or logs, in low spots that fill with fall rains. The habitat they select varies with the season. During the spring and summer, the adults spend their time in sandy upland deciduous forests. They seek shelter under logs or in underground tunnels of other animals. Their diet consists of earthworms, insects, slugs, and other small invertebrates; the larvae often eat the larvae of other amphibians. In autumn, they congregate in groups near lowland forested habitat to breed. The marbled salamander is a nocturnal, secretive creature that is rarely, if ever seen. The Michigan population is restricted to scattered populations in southwestern counties. It is more widely found in southeastern United States. In Michigan, the marbled salamander is currently listed as threatened due primarily to habitat fragmentation, wetland drainage, channelization, and filling. It has not been reported in Michigan for many years, and may be extirpated. Since shallow woodland ponds often freeze completely during typical winters, it is likely that the fall breeding habits of this species are not well adapted to Michigan's present climate. The survival of this species in Michigan will rely on identification and conservation of sites found to have marbled salamander populations. Since they migrate to their breeding areas, it will also be important to identify migration routes that may cross roadways. Recovery at these sites will require safe passage between forested uplands and lowland intermittent pools. Report any Michigan sightings of this species to the DNR Wildlife Division. ",
+      "moreinfo": "http://www.michigan.gov/dnr/0,4570,7-153-10370_12145_12201-33012--,00.html",
+      "thumb": "salamanderThumb.png",
+      "photos": [
+        {"src" :"salamander1.png"},
+        {"src" :"salamander2.png"},
+        {"src" :"salamander3.png"},
+        {"src" :"salamander4.png"}
+      ]
+    },
+    {
+      "id": "Ambystomalaterale",
+      "commonname": "Blue-spotted Salamander",
+      "latinname": "Ambystoma laterale",
+      "narrative": "Life History Most people would not consider hanging out under rotting wood feeding on a diet of spiders, centipedes, slugs and earthworms as their ideal lifestyle. The blue-spotted salamander believes it's just grand. This salamander found throughout Michigan is common in moist deciduous hardwood areas and swamp woodlands, preferably with access to vernal ponds. However, they often persist in drier, human disturbed second growth woodlands. Their diet includes insects, spiders, worms, and other small invertebrates. Their coloration can vary but generally they are black with turquoise or pale blue flecks and spots on the sides, limbs, belly, and tail. The belly may be black or grayish black. Adults average about 3.5 to 5.5 inches (8.9 to 14 cm) long. Photo andcopy; Jim Harding Note: Across much of Lower Michigan, populations of Blue spotted Salamanders often include many hybrid individuals that may appear stouter and grayer, with fewer or no blue spots on the sides. Most hybrids are triploid females. (Normal salamanders are diploid, having two sets of chromosomes in their body cells; triploid salamanders have an extra set). Hybrid populations result from the breeding of Blue-spotted Salamanders with other members of the  Ambystoma  genus. Like most salamanders blue-spotted salamanders breed during the first warm spring rains of March and April. One of the best times to view salamanders is just after the ice melts in the vernal (forest ponds) wetlands. They can often be seen near the edge of the pond. After a brief courtship females will attach egg masses containing about a dozen fertile eggs onto submerged debris. One female can lay up to 500 eggs a year. See the section on breeding in  Michigan's Salamanders  for more details. One of the most interesting adaptations of this species is its defense posture. When danger is sensed the blue-spotted salamander's tail lashes back and forth and produces a noxious secretion from two glands at the base of its tail. Even if the predator gets by this defense it may only end up a small morsel. When grabbed the salamander's tail will detach. While the predator is detained by the writhing tail the salamander zips off to safety. In time a new tail will grow to replace the lost one. Blue spotted Salamanders are fairly common, and even occur in some of the larger urban parks and farm woodlots. They seem to be more tolerant of human habitat disturbance than the related Spotted Salamander, with which they are sometimes confused. They depend on fishless vernal ponds for breeding. Non-DNR Links",
+      "moreinfo": "http://www.michigan.gov/dnr/0,4570,7-153-10370_12145_12201-32988--,00.html",
+      "thumb": "salamanderThumb.png",
+      "photos": [
+        {"src" :"salamander1.png"},
+        {"src" :"salamander2.png"},
+        {"src" :"salamander3.png"},
+        {"src" :"salamander4.png"}
+      ]
+    }
+  ],
+  "snakes": [
+    {
+      "id": "Thamnophisbutleri",
+      "commonname": "Butler's Garter Snake",
+      "latinname": "Thamnophis butleri",
+      "narrative": "Description:  A small black, brown, or olive snake with three distinct yellow stripes down the back and a yellowish belly. Some specimens have dark spots between the stripes. The dark head is very small. Adult length: 15 to 27 inches. Photo © Jim Harding Habitat and Habits:  Butler's Garter Snakes prefer moist meadows, marshes, and lake edges. They can be common in urban vacant lots where there are objects to hide under and lots of earthworms, a favorite food. When frightened, these snakes may wriggle rapidly back and forth with little forward motion. Reproduction:  Females produce litters of 4 to 19 snakes in mid summer. Range and Status:  This species is locally common in the eastern and southern Lower Peninsula.",
+      "moreinfo": "http://www.michigan.gov/dnr/0,4570,7-153-10370_12145_12201-61203--,00.html",
+      "thumb": "snakeThumb.png",
+      "photos": [
+        {"src" :"snake1.png"},
+        {"src" :"snake2.png"},
+        {"src" :"snake3.png"},
+        {"src" :"snake4.png"}
+      ]
+    },
+    {
+      "id": "Liochlorophisvernalis",
+      "commonname": "Smooth Green Snake",
+      "latinname": "Liochlorophis vernalis",
+      "narrative": "Description:  A small, smooth scaled bright green snake with a whitish or yellowish belly. Young green snakes are olive, brown, or gray. An occasional adult specimen will retain the juvenile color. Adult length: 12 to 20 inches. Photo © Jim Harding Habitat and Habits:  These gentle little snakes are usually found in grassy places where their color makes them difficult to see. They feed on insects, caterpillars, and spiders. They rarely bite when handled, but will smear a captor's hand with a musky anal secretion. Reproduction:  Females lay from 3 to 12 tiny eggs under a rock or other cover in early summer. The young may emerge in a month or less, and reports exist of smooth green snakes retaining eggs in their bodies until hatching. Range and Status:  Smooth green snakes have been found throughout Michigan, but seem to have disappeared from much of the southern Lower Peninsula. Their insect diet may make them vulnerable to the effects of chemical pesticides.",
+      "moreinfo": "http://www.michigan.gov/dnr/0,4570,7-153-10370_12145_12201-61212--,00.html",
+      "thumb": "snakeThumb.png",
+      "photos": [
+        {"src" :"snake1.png"},
+        {"src" :"snake2.png"},
+        {"src" :"snake3.png"},
+        {"src" :"snake4.png"}
+      ]
+    },
+    {
+      "id": "Lampropeltistriangulumtriangulum",
+      "commonname": "Eastern Milk Snake",
+      "latinname": "Lampropeltis triangulum triangulum",
+      "narrative": "Description:  This is a slender, smooth scaled snake with reddish or brown blotches on a gray or tan background color. There is usually a light Y or V shaped marking just behind the head. The belly is white with a black checkerboard pattern. Adult length: 2 to 4 feet. Photo © Jim Harding Habitat and Habits:  Milk snakes occur in woods, fields, marshes, farmlands, and suburbs. They normally stay out of sight, often hiding under boards and trash near buildings. Despite their name, these snakes do not (and could not) milk cows, but will seek mice and rats in and around farm buildings. They also eat other reptiles. These snakes are harmless to humans, though they may vibrate their tails and bite if cornered or handled. Reproduction:  From 6 to 20 eggs are laid in June. The brightly colored young hatch in late summer. Range and Status:  Milk snakes are fairly common throughout the Lower Peninsula, but are rare in the Upper Peninsula.",
+      "moreinfo": "http://www.michigan.gov/dnr/0,4570,7-153-10370_12145_12201-61211--,00.html",
+      "thumb": "snakeThumb.png",
+      "photos": [
+        {"src" :"snake1.png"},
+        {"src" :"snake2.png"},
+        {"src" :"snake3.png"},
+        {"src" :"snake4.png"}
+      ]
+    },
+    {
+      "id": "Nerodiasipedon",
+      "commonname": "Northern Water Snake",
+      "latinname": "Nerodia sipedon",
+      "narrative": "Description:  A water snake with dark bands or blotches on a light brown or gray background color. Some old adults may appear solid black or brown. The belly is white with reddish half moon shaped markings; some specimens have an orange belly speckled with brown or black. (The endangered Copper Bellied Water Snake has an unmarked reddish or orange belly.) Adult length: 2 to 4 feet. Photo © Jim Harding Habitat and Habits:  These snakes inhabit the shorelines of lakes, ponds, or streams. They swim well, seeking food (frogs and fish) and safety in the water, and often bask on objects hanging over the water. Water snakes are not venomous, but will bite if cornered or handled. They are sometimes mistakenly called water moccasins (which are not native to Michigan). Reproduction:  Females give birth to their 7 to 9 inch young in late summer. There are 8 to 48 babies in a litter. The young are gray or brown with bold black bands. Range and Status:  Northern water snakes are found throughout the Lower Peninsula and the eastern Upper Peninsula. Needless persecution by humans has eliminated water snakes from many places where they were once common.",
+      "moreinfo": "http://www.michigan.gov/dnr/0,4570,7-153-10370_12145_12201-61196--,00.html",
+      "thumb": "snakeThumb.png",
+      "photos": [
+        {"src" :"snake1.png"},
+        {"src" :"snake2.png"},
+        {"src" :"snake3.png"},
+        {"src" :"snake4.png"}
+      ]
+    },
+    {
+      "id": "Reginaseptemvittata",
+      "commonname": "Queen Snake",
+      "latinname": "Regina septemvittata",
+      "narrative": "Description:  This is a slender gray or brown snake with a whitish or yellow stripe on each side of the body. Three narrow black stripes may be visible on the back. The light colored belly has four dark lengthwise stripes. Adult length: 15 to 36 inches. Photo © Jim Harding Habitat and Habits:  Queen Snakes occur in or near shallow streams, canals, or ponds, and often bask in shrubs hanging over the water. They feed mostly on crayfish. Reproduction:  From 6 to 20 young are born in late summer. The 7 to 9 inch snakes are colored like the adults but have bolder striping. Range and Status:  Queen Snakes are found in the southern two thirds of the Lower Peninsula, and are generally uncommon and local in Michigan.",
+      "moreinfo": "http://www.michigan.gov/dnr/0,4570,7-153-10370_12145_12201-61197--,00.html",
+      "thumb": "snakeThumb.png",
+      "photos": [
+        {"src" :"snake1.png"},
+        {"src" :"snake2.png"},
+        {"src" :"snake3.png"},
+        {"src" :"snake4.png"}
+      ]
+    },
+    {
+      "id": "Storeriadekayi",
+      "commonname": "Brown Snake",
+      "latinname": "Storeria dekayi",
+      "narrative": "Description:  A small brown or gray snake with a light stripe down the back bordered by black dots. These dots may join to form crossbars. The belly is white, cream, or pinkish in color. Adult length: 9 to 15 inches. Photo © Jim Harding Habitat and Habits:  Brown snakes may turn up in a variety of places, including old fields, vacant city lots, marshes, and woodlands. These shy little animals are rarely seen in the open, and spend much time under objects or underground. They feed on earthworms and slugs. Reproduction:  Females produce litters of 5 to 27 young in summer. The tiny (3.5 to 4.5 inch long) snakes are black or gray with a yellow collar around the neck. Range and Status:  Found throughout the Lower Peninsula and the southern tip of the Upper Peninsula, brown snakes can be common even in farming and residential areas.",
+      "moreinfo": "http://www.michigan.gov/dnr/0,4570,7-153-10370_12145_12201-61198--,00.html",
+      "thumb": "snakeThumb.png",
+      "photos": [
+        {"src" :"snake1.png"},
+        {"src" :"snake2.png"},
+        {"src" :"snake3.png"},
+        {"src" :"snake4.png"}
+      ]
+    },
+    {
+      "id": "Storeriaoccipitomaculataoccipitomaculata",
+      "commonname": "Red-bellied Snake",
+      "latinname": "Storeria occipitomaculata occipitomaculata",
+      "narrative": "Description:  A very small brown or gray snake with faint stripes down its back. The belly is red, pink, or orange (without the double row of dots seen in the rare Kirtland's Snake.) Adult length: 8 to 16 inches. Photo © Jim Harding Habitat and Habits:  Red-bellied Snakes inhabit both fields and woods, but are most often found under boards and other objects at the edges of lumber piles or trash dumps. They feed on worms, slugs, and snails. Reproduction:  Up to 12 tiny (3 to 4 inch long) snakes are born in the summer. Range and Status:  These snakes are locally common throughout Michigan.",
+      "moreinfo": "http://www.michigan.gov/dnr/0,4570,7-153-10370_12145_12201-61199--,00.html",
+      "thumb": "snakeThumb.png",
+      "photos": [
+        {"src" :"snake1.png"},
+        {"src" :"snake2.png"},
+        {"src" :"snake3.png"},
+        {"src" :"snake4.png"}
+      ]
+    },
+    {
+      "id": "Thamnophissirtalis",
+      "commonname": "Eastern Garter Snake",
+      "latinname": "Thamnophis sirtalis",
+      "narrative": "Description:  A medium sized striped snake with variable coloration. Most are gray, brown, or greenish with three yellowish stripes down the back, and there may be black spots between the stripes, making the snake look checkered. The belly is pale white, green, or yellow. The tongue is red with a black tip. Adult length: 2 to 4 feet. Photo © Jim Harding Habitat and Habits:  These snakes are found almost everywhere in fields, marshes, woods, parks, and backyards. They feed on earthworms, frogs, toads, tadpoles, fish, and small mammals. Like many snakes, they release a musky smelling anal secretion when threatened or handled. Reproduction:  From 6 to 50 young are born in mid to late summer. They are 5 to 9 inches long and colored like the adults. Range and Status:  This species is the most common Michigan snake. They inhabit both peninsulas and survive even in urban areas.",
+      "moreinfo": "http://www.michigan.gov/dnr/0,4570,7-153-10370_12145_12201-61200--,00.html",
+      "thumb": "snakeThumb.png",
+      "photos": [
+        {"src" :"snake1.png"},
+        {"src" :"snake2.png"},
+        {"src" :"snake3.png"},
+        {"src" :"snake4.png"}
+      ]
+    },
+    {
+      "id": "Thamnophissauritusseptentrionalis",
+      "commonname": "Northern Ribbon Snake",
+      "latinname": "Thamnophis sauritus septentrionalis",
+      "narrative": "Description:  A very slender black or brown snake with three bright yellow or white stripes down the back. The head is black, though the scales above and below the mouth are white. The belly is white or light yellow. Adult length: 18 to 38 inches. Photo © Jim Harding Habitat and Habits:  Ribbon Snakes inhabit marshes and the edges of lakes, ponds, and streams. They are very alert and active, and swim well (but rarely dive). Their diet includes frogs, tadpoles, salamanders, and small fish. Reproduction:  From 3 to 26 young are born in late summer. They are 7 to 9 inches long and colored like the adults. Range and Status:  The snake can be found throughout the Lower Peninsula, and is locally common where suitable wetland habitat exists.",
+      "moreinfo": "http://www.michigan.gov/dnr/0,4570,7-153-10370_12145_12201-61204--,00.html",
+      "thumb": "snakeThumb.png",
+      "photos": [
+        {"src" :"snake1.png"},
+        {"src" :"snake2.png"},
+        {"src" :"snake3.png"},
+        {"src" :"snake4.png"}
+      ]
+    },
+    {
+      "id": "Diadophispunctatusedwardii",
+      "commonname": "Ring-necked Snake",
+      "latinname": "Diadophis punctatus edwardii",
+      "narrative": "Description:  A small black or gray, shiny scaled snake with a yellow ring around its neck. Michigan ring-neck snakes have a plain yellow belly, sometimes with a few black dots down the midline. Adult length: 10 to 24 inches. Photo © Jim Harding Habitat and Habits:  This snake lives in moist woodlands, usually staying hidden under logs, bark, or other objects. They feed on earthworms, salamanders, and smaller snakes. Reproduction:  Females lay from 1 to 7 eggs in rotting wood or under bark or flat rocks, usually in June. Hatching occurs in late summer. Range and Status:  Ring-necked Snakes have been recorded throughout Michigan, but are generally rare and local. They are common on some of the larger islands in Lake Michigan.",
+      "moreinfo": "http://www.michigan.gov/dnr/0,4570,7-153-10370_12145_12201-61205--,00.html",
+      "thumb": "snakeThumb.png",
+      "photos": [
+        {"src" :"snake1.png"},
+        {"src" :"snake2.png"},
+        {"src" :"snake3.png"},
+        {"src" :"snake4.png"}
+      ]
+    },
+    {
+      "id": "Heterodonplatirhinos",
+      "commonname": "Eastern Hog-nosed Snake",
+      "latinname": "Heterodon platirhinos",
+      "narrative": "Description:  A thick-bodied, slow-moving snake with a flattened, upturned nose. Color is variable some have dark spots and blotches on a yellow, orange, or brown background, but other specimens are solid black, brown, or olive with little or no visible pattern. Easily identified by defensive behavior (see below). Adult length: 20 to 40 inches. Photos © Jim Harding Habitat and Habits:  A snake of open, sandy woodlands - found in the wooded dunes of western Michigan. The upturned snout is used to burrow after toads, a favorite food. When threatened, hognose snakes puff up with air, flatten their necks and bodies, and hiss loudly. (This has led to local names like puff adder or hissing viper.) If this act is unsuccessful, they will writhe about, excrete a foul smelling musk, and then turn over with mouth agape and lie still, as though dead. Despite this intimidating behavior, Hog-nosed snakes are harmless to humans. Reproduction:  Female Hog-nosed Snakes lay from 4 to over 50 eggs in early summer, usually in an underground burrow. The young snakes hatch out about 60 days later, and are usually grayish with black blotches. Adult coloration appears as they mature. The young spread their necks and hiss immediately upon hatching. Range and Status:  Though recorded from most of the Lower Peninsula and the southern tip of the Upper Peninsula, Hog-nosed Snakes are most common in the western and northern LP. Their numbers have declined in many places, in part due to persecution by humans who mistakenly believe they are dangerous.",
+      "moreinfo": "http://www.michigan.gov/dnr/0,4570,7-153-10370_12145_12201-61207--,00.html",
+      "thumb": "snakeThumb.png",
+      "photos": [
+        {"src" :"snake1.png"},
+        {"src" :"snake2.png"},
+        {"src" :"snake3.png"},
+        {"src" :"snake4.png"}
+      ]
+    },
+    {
+      "id": "Coluberconstrictorfoxi",
+      "commonname": "Blue Racer",
+      "latinname": "Coluber constrictor foxi",
+      "narrative": "Description:  A large gray or blue snake with smooth scales. The head is usually darker than the body, though the chin and throat are white. The belly is light blue or white. Young racers are grayish, with a pattern of darker blotches and spots. Adult length: 4 to 6 feet. Photo © Jim Harding Habitat and Habits:  Racers inhabit a variety of places, including open woods, meadows, hedge rows, marshes, and weedy lake edges. They are alert, active snakes that may climb into low bushes to escape enemies. These snakes feed on rodents, frogs, smaller snakes, birds, and insects. Although they will bite if cornered or grabbed, racers are not venomous. Reproduction:  Females lay 6 to 25 eggs in rotting wood or underground during June and July. The young racers hatch in late summer and, as noted above, are colored differently than the adults. Range and Status:  Racers have been found through most of the Lower Peninsula (except the northernmost sections) and the southern tip of the Upper Peninsula. Once common, their numbers have fallen in many places. Needless persecution by humans as well as habitat loss are probable factors in this decline.",
+      "moreinfo": "http://www.michigan.gov/dnr/0,4570,7-153-10370_12145_12201-61208--,00.html",
+      "thumb": "snakeThumb.png",
+      "photos": [
+        {"src" :"snake1.png"},
+        {"src" :"snake2.png"},
+        {"src" :"snake3.png"},
+        {"src" :"snake4.png"}
+      ]
+    },
+    {
+      "id": "Elapheobsoletaobsoleta",
+      "commonname": "Black Rat Snake",
+      "latinname": "Elaphe obsoleta obsoleta",
+      "narrative": "Description:  A large shiny black snake with a white chin and throat. Young rat snakes are patterned with dark blotches on a gray background, and traces of this juvenile coloration are often visible in adult specimens. This is Michigan's largest snake. Adult length: 3.5 to 8 feet. MSU herpetologist Jim Harding indicates this Black Rat Snake is in pre-shed mode, which explains the gray/blue eyes. Photo © Matt Clara Habitat and Habits:  Rat snakes live in or near woodlands, often near water. They climb well, and often enter barns and abandoned buildings in search of rodents, a favorite food. When approached they may hold perfectly still, perhaps trying to escape notice. If cornered or grabbed these snakes may hiss and strike, but are non venomous and harmless to humans. Reproduction:  In early summer the females deposit 6 to 24 eggs under rotted wood or other cover. The young hatch in about 60 days. Range and Status:  Black Rat Snakes occur in the southern half of the Lower Peninsula, but are rare and declining. They are listed as a species of special concern by the Michigan Department of Natural Resources, and are protected by state law. Photo © Jim Harding",
+      "moreinfo": "http://www.michigan.gov/dnr/0,4570,7-153-10370_12145_12201-61209--,00.html",
+      "thumb": "snakeThumb.png",
+      "photos": [
+        {"src" :"snake1.png"},
+        {"src" :"snake2.png"},
+        {"src" :"snake3.png"},
+        {"src" :"snake4.png"}
+      ]
+    },
+    {
+      "id": "Elaphegloydi",
+      "commonname": "Fox Snakeand",
+      "latinname": "Elaphe gloydi",
+      "narrative": "Description:  A large yellowish or light brown snake with dark brown or black blotches down the back and sides. The head may be reddish or orange, and the belly is yellowish, checkered with black. Two species of the fox snake occur in Michigan (see below) but their ranges do not overlap. Adult length: 3 to 5 feet. Photo © Jim Harding Habitat and Habits:  The Western Fox Snake ( ) inhabits woods, old fields, and dune areas. The eastern form ( ) prefers marshes and adjacent wet meadows. Fox snakes feed on rodents, frogs, and birds. When threatened, they may coil, vibrate their tails, and strike, but are non venomous and harmless to humans. Reproduction:  From 7 to 29 eggs are laid in early summer, usually under a log or in humus or rotted wood. The young, colored much like the adults, hatch in about 60 days. Range and Status:  The western fox snake is found in the Upper Peninsula, where it is often called a pine snake. The eastern fox snake, of the Great Lakes marshes in the southeastern Lower Peninsula, is listed as a THREATENED species by the Michigan DNR and is protected by state law. Their numbers have been reduced by habitat destruction and, locally, by pet trade exploitation.",
+      "moreinfo": "http://www.michigan.gov/dnr/0,4570,7-153-10370_12145_12201-61210--,00.html",
+      "thumb": "snakeThumb.png",
+      "photos": [
+        {"src" :"snake1.png"},
+        {"src" :"snake2.png"},
+        {"src" :"snake3.png"},
+        {"src" :"snake4.png"}
+      ]
+    },
+    {
+      "id": "Clonophiskirtlandii",
+      "commonname": "Kirtland's Snake",
+      "latinname": "Clonophis kirtlandii",
+      "narrative": "Description:  A small reddish brown snake with four rows of black (often indistinct) blotches down its back, and a black head. The belly is pink or red with a row of black dots along each side. Adult length: 12 to 18 inches. Photo © Jim Harding Habitat and Habits:  Found in damp meadows, vacant lots, and open swampy woodlands. These earthworm and slug eating snakes stay underground much of the time, frequently using rodent or crayfish burrows. They flatten their bodies when threatened, but rarely bite and are completely harmless. Reproduction:  Females give birth to 5 to 8 young in late summer. Young Kirtland's snakes are about 5 or 6 inches long. Range and Status:  The few recent records for this species have been in the southern Lower Peninsula. Kirtland's Snake is listed as ENDANGERED by the Michigan Department of Natural Resources, and is protected in the state. Any sightings should be reported to the DNR Wildlife Division in Lansing.",
+      "moreinfo": "http://www.michigan.gov/dnr/0,4570,7-153-10370_12145_12201-60850--,00.html",
+      "thumb": "snakeThumb.png",
+      "photos": [
+        {"src" :"snake1.png"},
+        {"src" :"snake2.png"},
+        {"src" :"snake3.png"},
+        {"src" :"snake4.png"}
+      ]
+    },
+    {
+      "id": "Sistruruscatenatuscatenatus",
+      "commonname": "Eastern Massasauga Rattlesnake",
+      "latinname": "Sistrurus catenatus catenatus",
+      "narrative": "VENOMOUS Life History and Michigan History Michigan's only venomous snake is a rare sight for most state residents. Historically, they could be found in a variety of wetlands and nearby upland woods throughout the lower peninsula. During the late spring, these snakes move from their winter hibernation sites, such as crayfish chimneys and other small mammal burrows in swamps and marshlands, to hunt on the drier upland sites - likely in search of mice and voles, their favorite food. Females give birth to 8 to 20 young in late summer. The young snakes have a single button on their tails; a new rattle segment is added at each shedding of the skin, which occurs several times per year. The massasauga can be characterized as a shy, sluggish snake. Its thick body is colored with a pattern of dark brown slightly rectangular patches set against a light gray-to-brown background. Occasionally, this coloration can be so dark as to appear almost black. The belly is mostly black. It is the only Michigan snake with segmented rattles on the end of its tail and elliptical, (cat like) vertical pupils in the eyes. The neck is narrow, contrasting with the wide head and body and the head appears triangular in shape. Adult length is 2 to 3 feet. These rattlesnakes avoid confrontation with humans; they are not prone to strike - preferring to leave the area when they are threatened. Like any animal though, these snakes will protect themselves from anything they see as a potential predator. Their short fangs can easily puncture skin and they do possess a potent venom. It is best to treat them with respect and leave them alone. The few bites that occur to humans often result from attempts to handle or kill the snakes. Any bite from a massasauga should receive prompt professional medical attention.  When compared to other rattlesnakes found in the United States, the massasauga is the smallest and has the least toxic venom. Massasaugas are found throughout the Lower Peninsula, but not in the Upper Peninsula (thus there are no poisonous snakes on the Upper Peninsula mainland.) They are becoming rare in many parts of their former range, throughout the Great Lakes area, due to wetland habitat loss and persecution by humans. They are listed as a species of special concern by the Michigan Department of Natural Resources, and are protected by state law.  Like many snakes, the first human reaction may be to kill the snake. But it is important to remember that all snakes play an important role in the ecosystem. Some may eat insects, others like the massasauga consider rodents a delicacy and help control their population. Snakes are also a part of a larger food web and can provide food to eagles, herons, and several mammals. We can easily learn to live with these creatures. When you encounter a snake, leave it alone. In most cases, the snake will move to different areas. If pets are in the area, it is important to confine them until the snake moves on. Most often snakes do not wander into areas with little vegetation. The most likely period to encounter snakes in the open is early spring or mornings when they can be found sunning themselves. The U.S. Fish and Wildlife Service is currently evaluating the Great Lakes population to determine whether it should be listed as a threatened species. In Michigan, it remains an important part of our natural history. Was that a massasauga? Status: Special Concern, it is protected by the State of Michigan and is a candidate for federal listing Range: Entire Lower Peninsula,. Although once common, populations may be declining due to loss of wetland habitats and human harassment. Habitat: During spring, Massasaugas use open shallow wetlands or shrub swamps. They can be found in crayfish towers or small animal burrows which are adjacent to drier upland open shrub forest sites. During summer, Massasaugas move upland to drier areas. Look for them sunning in open fields, grassy meadows or farmed sites. Behavior: Sluggish, slow moving snake. It may strike if threatened. Benefits: Eastern Massasauga rattlesnakes eat small mammals, amphibians and insects. The Massasaugas are eaten by eagles, herons and some mammals. Description: Massasaugas have thick bodies with colors that range from gray, grayish brown or brown. Its back has large dark brown blotches with smaller lighter brown patches on its sides. Young Massasaugas are similarly marked with brighter coloration. This snake has a wide triangular head and eyes with slit shaped pupils. Adults can be 18 to 30 in length. Young Massasaugas have small yellow buttons or rattles at the tip of their tail. Adult rattles are grayish yellow, like pieces of corn kernels, on top of dark rings. Snakes may bite to protect themselves. Look alike Snakes: Eastern Massasauga Rattlesnake ( ) Photo by: James H. Harding Eastern Milk Snake ( ) Photo by: James H. Harding Eastern Hog-nosed Snake ( ) Photo by: Earl Wolf What do I do if I see a massasauga? Remember, not all snakes are poisonous. Additional information is available on  Michigan's snakes . Radio Tracking Project (photo by Matt Heumann) Beginning the Spring of 2002, researchers used radio telemetry equipment to follow snakes at Indian Springs Metropark in Oakland County. This project is a cooperative effort between the Michigan Department of Natural Resources, the Huron-Clinton Metropolitan Authority (HCMA) and the U. S. Fish and Wildlife Service (USFWS). Telemetry uses a tiny radio transmitter surgically implanted into a snake. The signal is picked up by special monitoring equipment.  There are two primary objectives to the telemetry study. First, we seek clarification of the behavior of massasaugas in areas that include expansive upland open habitats such as old fields and savannahs. Second, we are interested in the behavior of massasaugas in areas of human use and how to manage conflicts between massasauga conservation and human recreation.  Up to 15 massasaugas will be implanted with transmitters. They will be monitored for two activity seasons to study their patterns of movement. Data on habitats the snakes are using and when they're using them will be collected. This work will also reveal corridors used and barriers perceived by the snakes. Work at this southern Michigan site will complement efforts conducted in fens in northern Indiana and in coniferous swamps farther north to provide a broader perspective of habitat needs and massasauga behavior across Michigan.  In addition to clarifying the basic biology of massasaugas, a component of this project will be to identify opportunities to promoting the conservation of the massasauga.  As of early April, seven snakes had been captured for the project. Snakes will be monitored regularly throughout the spring and summer, then periodically in the fall to establish hibernacula. If necessary, additional snakes will be implanted in spring 2003. All snakes will then be monitored in spring and summer 2003. Their transmitters would then be removed. Snakes added to the study that year would be followed to their hibernacula (wintering quarters) and transmitters removed in spring 2004.  The eastern massasauga rattlesnake population has declined throughout its range from western New York and southern Ontario, to Iowa and southward to Missouri. It is either included on lists of endangered and threatened species or watch lists in every state it occurs. The primary causes of its decline are habitat loss and persecution. The USFWS listed the massasauga as a candidate for the federal species list. Since massasauga are more common in Michigan than anywhere else in its range, the Natural Heritage Program has agreed to cooperate in a multi-state planning effort to describe how threats to the species will be minimized. The goal is to assure the long-term protection of massasauga populations and eliminate the need for federal listing. 2002 Survey In order to ensure the long-term survival of Michigan's massasauga, an understanding of the distribution of local populations and critical habitats is necessary. In 2002, Michigan Natural Features Inventory (MNFI) conducted surveys in an attempt to gain such an understanding. In winter 2002, Dr. Bruce Kingsbury, professor of biology at Indiana-Purdue University, and graduate student Michelle Standora identified 77 potential core areas for 2002 surveys. These sites, all on publicly-owned lands, were identified based on habitat quality and prior rattlesnake occurrences. MNFI surveyed 40 sites associated with 27 of these core areas in addition to five sites associated with other MNFI projects. A total of 80 rattlesnakes were observed by survey participants. Seven others were observed by outside sources, yielding a total of 87 rattlesnakes from 19 different sites. Of these 19 sites, six were birthing sites consisting of 5 adult females and a total of 28 young-of-the-year. Survey efforts will continue in 2003 with an increased focus on survey gaps and identification of hibernation sites. MNFI also hopes to supplement surveys on public lands with additional surveys on private lands. Non-DNR Links Herp Center  (Indiana-Purdue Univ. Fort Wayne) Canadian Eastern Massasauga Recovery Team Michigan Society of Herpetologists  (University of Michigan, Museum of Zoology) Eastern Massasauga Rattlesnake  (Wisconsin Dept. of Natural Resources)  (NatureServe) Eastern Massasauga Rattlesnake  (US Fish and Wildlife Service)",
+      "moreinfo": "http://www.michigan.gov/dnr/0,4570,7-153-10370_12145_12201-32995--,00.html",
+      "thumb": "snakeThumb.png",
+      "photos": [
+        {"src" :"snake1.png"},
+        {"src" :"snake2.png"},
+        {"src" :"snake3.png"},
+        {"src" :"snake4.png"}
+      ]
+    },
+    {
+      "id": "Nerodiaerythrogasterneglecta",
+      "commonname": "Copper-bellied Water Snake",
+      "latinname": "Nerodia erythrogaster neglecta",
+      "narrative": "Life History and Michigan History One of the larger snakes in Michigan, the  copper-bellied water snake can grow to a length of 4-5 feet. Adult snakes are easily identified by their dark brown or black back which contrasts easily with the unmarked reddish-to-orange belly and chin. The young have a blotched pattern which may remain visible in some adult specimens. This snake is extremely rare in Michigan. Its population is so low that it is listed as an endangered species in Michigan. It has also recently been listed by the U. S. Fish and Wildlife Service as a nationally threatened species. Photo © Jim Harding The copper-bellied water snake prefers to live near wooded floodplains, shrub wetlands, and adjacent to slow moving rivers. As excellent swimmers, they hunt aquatic species including tadpoles, frogs, salamanders, insect larvae, and crayfish. In the spring, tadpoles seem to be especially tasty to hungry copper-bellied water snakes.  Mating takes place in May, and one to two dozen young are born in September or October. It is one of ten species of snakes that do not lay eggs but bare live young. Habitat for the copper-bellied water snake has declined dramatically. Wetlands drainage and development in preferred habitat has limited distribution to only a few small populations.  It has been found only in the southern third of the Lower Peninsula. Indiscriminate killing of snakes has also been a problem in local areas. It is listed as ENDANGERED by the Michigan Department of Natural Resources and is protected by law in the state. Any sightings of adult copperbelly water snakes should be reported to the DNR Wildlife Division in Lansing. Only adults should be reported because young copperbelly water snakes are easily confused with red-bellied snakes. Any sightings should be reported to the DNR Wildlife Division in Lansing. Keeping this species as part of Michigan's natural heritage will require protection of remaining habitat and management of lowland hardwoods. If you find a  copper-bellied water snake, count yourself lucky to be one of a very few to experience this unique heritage species. Non-DNR Links Species Profile  (U.S. Fish and Wildlife Service)  (University of Michigan, Museum of Zoology)",
+      "moreinfo": "http://www.michigan.gov/dnr/0,4570,7-153-10370_12145_12201-33017--,00.html",
+      "thumb": "snakeThumb.png",
+      "photos": [
+        {"src" :"snake1.png"},
+        {"src" :"snake2.png"},
+        {"src" :"snake3.png"},
+        {"src" :"snake4.png"}
+      ]
+    }
+  ]
+}

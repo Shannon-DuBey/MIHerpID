@@ -20,12 +20,7 @@ export class TurtlePage {
   getTurtleData(){
     this.dataService.getJsonData().subscribe(data => {
       this.turtleData = data.turtles;
-      //console.log(this.turtleData);
-      this.echoData();
     });
   }
 
-  echoData(){
-    console.log(this.turtleData);
-  }
 }

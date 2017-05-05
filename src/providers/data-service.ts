@@ -20,34 +20,8 @@ export class DataService {
   }
 
   getJsonData(){
-    return this.http.get('../assets/data/data.json')
+    return this.http.get('../assets/data/herpData.json')
     .map(res => res.json())
-  }
-
-  getTurtleData(){
-    return this.getJsonData()
-    .subscribe(data => {
-      this.turtleData = data.turtles;
-
-    });
-  }
-
-  getFrogData(){
-    this.getJsonData()
-    .subscribe(data => {
-      this.frogData = data.frogs;
-    });
-  }
-
-  getSalamanderData(){
-    this.getJsonData()
-    .subscribe(data => {
-      this.salamanderData = data.salamanders;
-    });
-  }
-
-  echoData(){
-    console.log(this.turtleData);
   }
 
 }
