@@ -13,6 +13,7 @@ import { FrogPage } from '../pages/frog/frog';
 import { TurtlePage } from '../pages/turtle/turtle';
 import { SalamanderPage } from '../pages/salamander/salamander';
 import { SnakePage } from '../pages/snake/snake';
+import { DetailPage } from '../pages/detail/detail';
 
 @NgModule({
   declarations: [
@@ -24,7 +25,8 @@ import { SnakePage } from '../pages/snake/snake';
     FrogPage,
     TurtlePage,
     SalamanderPage,
-    SnakePage
+    SnakePage,
+    DetailPage
   ],
   imports: [
     IonicModule.forRoot(MyApp)
@@ -39,7 +41,8 @@ import { SnakePage } from '../pages/snake/snake';
     FrogPage,
     TurtlePage,
     SalamanderPage,
-    SnakePage
+    SnakePage,
+    DetailPage
   ],
   providers: [{provide: ErrorHandler, useClass: IonicErrorHandler}, DataService]
 })
