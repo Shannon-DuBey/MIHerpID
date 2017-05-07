@@ -17,10 +17,19 @@
 
 .toolbar-background,
 .tabs-md .tabbar,
-.tabs-md .tab-button[aria-selected=true] .tab-button-icon,
 .content-md,
-.item-md {
-  background-color: #7b6037;
+.item-md,
+.tabs-ios .tabbar,
+.content-ios,
+.item-ios {
+  background: #ab894d;
+  background: -moz-linear-gradient(top, #ab894d 0%, #76603a 100%);
+  background: -webkit-linear-gradient(top, #ab894d 0%,#76603a 100%);
+  background: linear-gradient(to bottom, #ab894d 0%,#76603a 100%);
+}
+
+.tab-button-text {
+  color:#fff;
 }
 
 .toolbar-title-md,
@@ -30,6 +39,14 @@
 .tabs-md .tab-button[aria-selected=true] .tab-button-icon,
 .tabs-md .tab-button[aria-selected=true] .tab-button-icon,
 .content-md,
-.item-md {
+.item-md,
+.toolbar-title-ios,
+.bar-button-default-ios,
+.bar-button-clear-ios-default,
+.bar-button-ios-default,
+.tabs-ios .tab-button[aria-selected=true] .tab-button-icon,
+.tabs-ios .tab-button[aria-selected=true] .tab-button-icon,
+.content-ios,
+.item-ios {
     color: #fff;
 }

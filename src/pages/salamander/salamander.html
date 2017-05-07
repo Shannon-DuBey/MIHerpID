@@ -10,13 +10,13 @@
 </ion-header>
 
 <ion-content>
-  <ion-list>
-    <ion-item ion-item *ngFor="let salamander of salamanderData" (click)="salamanderSelected(salamander)" >
+  <ion-list no-lines>
+    <ion-item ion-item *ngFor="let salamander of salamanderData" (click)="salamanderSelected(salamander)" class="listItem">
       <ion-thumbnail item-left>
         <img src='./assets/img/salamanderPhotos/{{ salamander.thumb }}'>
       </ion-thumbnail>
       <h2>{{ salamander.commonname }}</h2>
-      <button ion-button clear item-right>View</button>
+      <button ion-button clear item-right> <ion-icon name="arrow-forward"></ion-icon> </button>
     </ion-item>
   </ion-list>
 

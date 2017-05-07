@@ -19,7 +19,7 @@ export class MyApp {
 
   // set our app's pages
   appPages: PageInterface[] = [
-    { title: 'Home', component: TabsPage, icon: 'home' },
+    { title: 'Herp  ID', component: TabsPage, icon: 'book' },
     { title: 'About', component: TabsPage, index: 1, icon: 'information-circle' },
     { title: 'Contact', component: TabsPage, index: 2, icon: 'contacts' }
   ];
