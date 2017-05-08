@@ -2,7 +2,6 @@ import { Component } from '@angular/core';
 import { DataService } from '../../providers/data-service';
 import { NavController } from 'ionic-angular';
 
-
 import { DetailPage } from '../detail/detail';
 
 @Component({
