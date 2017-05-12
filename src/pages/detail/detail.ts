@@ -8,22 +8,32 @@ import { NavParams } from 'ionic-angular';
   templateUrl: 'detail.html'
 })
 export class DetailPage {
+    type: string;
     id: string;
     commonname: string;
     latinname: string;
-    narrative: string;
+    identification: string;
+    habitat: string;
+    breeding: string;
+    range: string;
     moreinfo: string;
     thumb: any;
     photos: any;
 
   constructor(private navParams: NavParams) {
+    this.type = navParams.get('type');
     this.id = navParams.get('id');
     this.commonname = navParams.get('commonname');
     this.latinname = navParams.get('latinname');
-    this.narrative =navParams.get('narrative');
+    this.identification =navParams.get('identification');
+    this.habitat = navParams.get('habitat');
+    this.breeding = navParams.get('breeding');
+    this.range = navParams.get('range');
     this.moreinfo = navParams.get('moreinfo');
     this.thumb = navParams.get('thumb');
     this.photos = navParams.get('photos');
+
+    console.log(this.photos);
   }
 
 }

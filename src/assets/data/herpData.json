@@ -6,15 +6,15 @@
      "latinname": "Terrapene carolina carolina",
      "identification": "The high, domed carapace is dark with a radiating pattern of yellow or orange. Plastron with flexible hinge, allowing complete shell closure. Head and legs with yellow markings. Male usually has red eyes and concave plastron. Adult carapace length:  4.5 to 7.8 inches (11.4 to 19.8 cm).",
      "habitat": "Open woodlands and adjacent meadows, thickets, and gardens, often near shallow ponds, swamps, or streams. Michigan's only truly terrestrial turtle. Many Box turtles stay in a small home range (under five acres) most of their lives; they routinely live for several decades, occasionally a century or more. Food includes plants, berries, fungi, insects, worms, slugs, snails, carrion.",
-     "Reproduction": "Mating can occur spring through fall; female may remain fertile for four years after mating. Three to 8 oval, soft shelled eggs are laid in the ground in June; they hatch in 75 to 90 days.",
-     "Range": "Uncommon to rare in southern and western Lower Peninsula. Declining due to habitat loss, collecting for pets, and road mortality. Protected by Michigan law as a special concern species.",
+     "breeding": "Mating can occur spring through fall; female may remain fertile for four years after mating. Three to 8 oval, soft shelled eggs are laid in the ground in June; they hatch in 75 to 90 days.",
+     "range": "Uncommon to rare in southern and western Lower Peninsula. Declining due to habitat loss, collecting for pets, and road mortality. Protected by Michigan law as a special concern species.",
      "moreinfo": "http://www.michigan.gov/dnr/0,4570,7-153-10370_12145_12201-60648--,00.html",
      "thumb": "boxThumb.png",
      "photos": [
-       {"src" :"box1.png"},
-       {"src" :"box2.png"},
-       {"src" :"box3.png"},
-       {"src" :"box4.png"}
+       {"src" :"box1.jpg"},
+       {"src" :"box2.jpg"},
+       {"src" :"box3.jpg"},
+       {"src" :"box4.jpg"}
      ]
    },
    {
@@ -28,10 +28,10 @@
      "moreinfo": "http://www.michigan.gov/dnr/0,4570,7-153-10370_12145_12201-60654--,00.html",
      "thumb": "softThumb.png",
      "photos": [
-       {"src" :"soft1.png"},
-       {"src" :"soft2.png"},
-       {"src" :"soft3.png"},
-       {"src" :"soft4.png"}
+       {"src" :"soft1.jpg"},
+       {"src" :"soft2.jpg"},
+       {"src" :"soft3.jpg"},
+       {"src" :"soft4.jpg"}
      ]
    },
    {
@@ -45,10 +45,10 @@
      "moreinfo": "http://www.michigan.gov/dnr/0,4570,7-153-10370_12145_12201-60643--,00.html",
      "thumb": "snappingThumb.png",
      "photos": [
-       {"src" :"snapping1.png"},
-       {"src" :"snapping2.png"},
-       {"src" :"snapping3.png"},
-       {"src" :"snapping4.png"}
+       {"src" :"snapping1.jpg"},
+       {"src" :"snapping2.jpg"},
+       {"src" :"snapping3.jpg"},
+       {"src" :"snapping4.jpg"}
      ]
    },
    {
@@ -62,10 +62,10 @@
      "moreinfo": "http://www.michigan.gov/dnr/0,4570,7-153-10370_12145_12201-60646--,00.html",
      "thumb": "muskThumb.png",
      "photos": [
-       {"src" :"musk1.png"},
-       {"src" :"musk2.png"},
-       {"src" :"musk3.png"},
-       {"src" :"musk4.png"}
+       {"src" :"musk1.jpg"},
+       {"src" :"musk2.jpg"},
+       {"src" :"musk3.jpg"},
+       {"src" :"musk4.jpg"}
      ]
    },
    {
@@ -79,10 +79,10 @@
      "moreinfo": "http://www.michigan.gov/dnr/0,4570,7-153-10370_12145_12201-60647--,00.html",
      "thumb": "blandingsThumb.png",
      "photos": [
-       {"src" :"blandings1.png"},
-       {"src" :"blandings2.png"},
-       {"src" :"blandings3.png"},
-       {"src" :"blandings4.png"}
+       {"src" :"blandings1.jpg"},
+       {"src" :"blandings2.jpg"},
+       {"src" :"blandings3.jpg"},
+       {"src" :"blandings4.jpg"}
      ]
    },
    {
@@ -96,10 +96,10 @@
      "moreinfo": "http://www.michigan.gov/dnr/0,4570,7-153-10370_12145_12201-60649--,00.html",
      "thumb": "paintedThumb.png",
      "photos": [
-       {"src" :"painted1.png"},
-       {"src" :"painted2.png"},
-       {"src" :"painted3.png"},
-       {"src" :"painted4.png"}
+       {"src" :"painted1.jpg"},
+       {"src" :"painted2.jpg"},
+       {"src" :"painted3.jpg"},
+       {"src" :"painted4.jpg"}
      ]
    },
    {
@@ -113,10 +113,10 @@
      "moreinfo": "http://www.michigan.gov/dnr/0,4570,7-153-10370_12145_12201-60650--,00.html",
      "thumb": "sliderThumb.png",
      "photos": [
-       {"src" :"slider1.png"},
-       {"src" :"slider2.png"},
-       {"src" : "slider3.png"},
-       {"src" :"slider4.png"}
+       {"src" :"slider1.jpg"},
+       {"src" :"slider2.jpg"},
+       {"src" : "slider3.jpg"},
+       {"src" :"slider4.jpg"}
      ]
    },
    {
@@ -130,10 +130,10 @@
      "moreinfo": "http://www.michigan.gov/dnr/0,4570,7-153-10370_12145_12201-60652--,00.html",
      "thumb": "mapThumb.png",
      "photos": [
-       {"src" :"map1.png"},
-       {"src" :"map2.png"},
-       {"src" :"map3.png"},
-       {"src" :"map4.png"}
+       {"src" :"map1.jpg"},
+       {"src" :"map2.jpg"},
+       {"src" :"map3.jpg"},
+       {"src" :"map4.jpg"}
      ]
    },
    {
@@ -144,10 +144,10 @@
      "moreinfo": "http://www.michigan.gov/dnr/0,4570,7-153-10370_12145_12201-33033--,00.html",
      "thumb": "woodThumb.png",
      "photos": [
-       {"src" :"wood1.png"},
-       {"src" :"wood2.png"},
-       {"src" :"wood3.png"},
-       {"src" :"wood4.png"}
+       {"src" :"wood1.jpg"},
+       {"src" :"wood2.jpg"},
+       {"src" :"wood3.jpg"},
+       {"src" :"wood4.jpg"}
      ]
    },
    {
@@ -161,10 +161,10 @@
      "moreinfo": "http://www.michigan.gov/dnr/0,4570,7-153-10370_12145_12201-33028--,00.html",
      "thumb": "spottedThumb.png",
      "photos": [
-       {"src" :"spotted1.png"},
-       {"src" :"spotted2.png"},
-       {"src" :"spotted3.png"},
-       {"src" :"spotted4.png"}
+       {"src" :"spotted1.jpg"},
+       {"src" :"spotted2.jpg"},
+       {"src" :"spotted3.jpg"},
+       {"src" :"spotted4.jpg"}
      ]
    }
   ],
@@ -181,10 +181,10 @@
       "moreinfo": "http://www.michigan.gov/dnr/0,4570,7-153-10370_12145_12201-60112--,00.html",
       "thumb": "fowlersThumb.png",
       "photos": [
-        {"src" :"frog1.png"},
-        {"src" :"frog2.png"},
-        {"src" :"frog3.png"},
-        {"src" :"frog4.png"}
+        {"src" :"frog1.jpg"},
+        {"src" :"frog2.jpg"},
+        {"src" :"frog3.jpg"},
+        {"src" :"frog4.jpg"}
       ]
     },
     {
@@ -199,10 +199,10 @@
       "moreinfo": "http://www.michigan.gov/dnr/0,4570,7-153-10370_12145_12201-60117--,00.html",
       "thumb": "greenThumb.png",
       "photos": [
-        {"src" :"frog1.png"},
-        {"src" :"frog2.png"},
-        {"src" :"frog3.png"},
-        {"src" :"frog4.png"}
+        {"src" :"frog1.jpg"},
+        {"src" :"frog2.jpg"},
+        {"src" :"frog3.jpg"},
+        {"src" :"frog4.jpg"}
       ]
 
     },
@@ -218,10 +218,10 @@
       "moreinfo": "http://www.michigan.gov/dnr/0,4570,7-153-10370_12145_12201-60116--,00.html",
       "thumb": "minkThumb.png",
       "photos": [
-        {"src" :"frog1.png"},
-        {"src" :"frog2.png"},
-        {"src" :"frog3.png"},
-        {"src" :"frog4.png"}
+        {"src" :"frog1.jpg"},
+        {"src" :"frog2.jpg"},
+        {"src" :"frog3.jpg"},
+        {"src" :"frog4.jpg"}
       ]
     },
     {
@@ -236,10 +236,10 @@
       "moreinfo": "http://www.michigan.gov/dnr/0,4570,7-153-10370_12145_12201-60105--,00.html",
       "thumb": "chorusThumb.png",
       "photos": [
-        {"src" :"frog1.png"},
-        {"src" :"frog2.png"},
-        {"src" :"frog3.png"},
-        {"src" :"frog4.png"}
+        {"src" :"frog1.jpg"},
+        {"src" :"frog2.jpg"},
+        {"src" :"frog3.jpg"},
+        {"src" :"frog4.jpg"}
       ]
     },
     {
@@ -254,10 +254,10 @@
       "moreinfo": "http://www.michigan.gov/dnr/0,4570,7-153-10370_12145_12201-60110--,00.html",
       "thumb": "treeThumb.png",
       "photos": [
-        {"src" :"frog1.png"},
-        {"src" :"frog2.png"},
-        {"src" :"frog3.png"},
-        {"src" :"frog4.png"}
+        {"src" :"frog1.jpg"},
+        {"src" :"frog2.jpg"},
+        {"src" :"frog3.jpg"},
+        {"src" :"frog4.jpg"}
       ]
     },
     {
@@ -272,10 +272,10 @@
       "moreinfo": "http://www.michigan.gov/dnr/0,4570,7-153-10370_12145_12201-60111--,00.html",
       "thumb": "amToadThumb.png",
       "photos": [
-        {"src" :"frog1.png"},
-        {"src" :"frog2.png"},
-        {"src" :"frog3.png"},
-        {"src" :"frog4.png"}
+        {"src" :"frog1.jpg"},
+        {"src" :"frog2.jpg"},
+        {"src" :"frog3.jpg"},
+        {"src" :"frog4.jpg"}
       ]
     },
     {
@@ -290,10 +290,10 @@
       "moreinfo": "http://www.michigan.gov/dnr/0,4570,7-153-10370_12145_12201-60118--,00.html",
       "thumb": "bullThumb.png",
       "photos": [
-        {"src" :"frog1.png"},
-        {"src" :"frog2.png"},
-        {"src" :"frog3.png"},
-        {"src" :"frog4.png"}
+        {"src" :"frog1.jpg"},
+        {"src" :"frog2.jpg"},
+        {"src" :"frog3.jpg"},
+        {"src" :"frog4.jpg"}
       ]
     },
     {
@@ -308,10 +308,10 @@
       "moreinfo": "http://www.michigan.gov/dnr/0,4570,7-153-10370_12145_12201-60113--,00.html",
       "thumb": "woodThumb.png",
       "photos": [
-        {"src" :"frog1.png"},
-        {"src" :"frog2.png"},
-        {"src" :"frog3.png"},
-        {"src" :"frog4.png"}
+        {"src" :"frog1.jpg"},
+        {"src" :"frog2.jpg"},
+        {"src" :"frog3.jpg"},
+        {"src" :"frog4.jpg"}
       ]
     },
     {
@@ -326,10 +326,10 @@
       "moreinfo": "http://www.michigan.gov/dnr/0,4570,7-153-10370_12145_12201-60114--,00.html",
       "thumb": "leopardThumb.png",
       "photos": [
-        {"src" :"frog1.png"},
-        {"src" :"frog2.png"},
-        {"src" :"frog3.png"},
-        {"src" :"frog4.png"}
+        {"src" :"frog1.jpg"},
+        {"src" :"frog2.jpg"},
+        {"src" :"frog3.jpg"},
+        {"src" :"frog4.jpg"}
       ]
     },
     {
@@ -344,10 +344,10 @@
       "moreinfo": "http://www.michigan.gov/dnr/0,4570,7-153-10370_12145_12201-60115--,00.html",
       "thumb": "pickerelThumb.png",
       "photos": [
-        {"src" :"frog1.png"},
-        {"src" :"frog2.png"},
-        {"src" :"frog3.png"},
-        {"src" :"frog4.png"}
+        {"src" :"frog1.jpg"},
+        {"src" :"frog2.jpg"},
+        {"src" :"frog3.jpg"},
+        {"src" :"frog4.jpg"}
       ]
     },
     {
@@ -358,10 +358,10 @@
       "moreinfo": "http://www.michigan.gov/dnr/0,4570,7-153-10370_12145_12201-59138--,00.html",
       "thumb": "peeperThumb.png",
       "photos": [
-        {"src" :"frog1.png"},
-        {"src" :"frog2.png"},
-        {"src" :"frog3.png"},
-        {"src" :"frog4.png"}
+        {"src" :"frog1.jpg"},
+        {"src" :"frog2.jpg"},
+        {"src" :"frog3.jpg"},
+        {"src" :"frog4.jpg"}
       ]
     },
     {
@@ -372,10 +372,10 @@
       "moreinfo": "http://www.michigan.gov/dnr/0,4570,7-153-10370_12145_12201-32986--,00.html",
       "thumb": "cricketThumb.png",
       "photos": [
-        {"src" :"frog1.png"},
-        {"src" :"frog2.png"},
-        {"src" :"frog3.png"},
-        {"src" :"frog4.png"}
+        {"src" :"frog1.jpg"},
+        {"src" :"frog2.jpg"},
+        {"src" :"frog3.jpg"},
+        {"src" :"frog4.jpg"}
       ]
     }
   ],
@@ -391,10 +391,10 @@
       "moreinfo": "http://www.michigan.gov/dnr/0,4570,7-153-10370_12145_12201-61167--,00.html",
       "thumb": "sirenThumb.png",
       "photos": [
-        {"src" :"salamander1.png"},
-        {"src" :"salamander2.png"},
-        {"src" :"salamander3.png"},
-        {"src" :"salamander4.png"}
+        {"src" :"salamander1.jpg"},
+        {"src" :"salamander2.jpg"},
+        {"src" :"salamander3.jpg"},
+        {"src" :"salamander4.jpg"}
       ]
     },
     {
@@ -408,10 +408,10 @@
       "moreinfo": "http://www.michigan.gov/dnr/0,4570,7-153-10370_12145_12201-61175--,00.html",
       "thumb": "redbackThumb.png",
       "photos": [
-        {"src" :"salamander1.png"},
-        {"src" :"salamander2.png"},
-        {"src" :"salamander3.png"},
-        {"src" :"salamander4.png"}
+        {"src" :"salamander1.jpg"},
+        {"src" :"salamander2.jpg"},
+        {"src" :"salamander3.jpg"},
+        {"src" :"salamander4.jpg"}
       ]
     },
     {
@@ -425,10 +425,10 @@
       "moreinfo": "http://www.michigan.gov/dnr/0,4570,7-153-10370_12145_12201-61174--,00.html",
       "thumb": "smallMouthThumb.png",
       "photos": [
-        {"src" :"salamander1.png"},
-        {"src" :"salamander2.png"},
-        {"src" :"salamander3.png"},
-        {"src" :"salamander4.png"}
+        {"src" :"salamander1.jpg"},
+        {"src" :"salamander2.jpg"},
+        {"src" :"salamander3.jpg"},
+        {"src" :"salamander4.jpg"}
       ]
     },
     {
@@ -442,10 +442,10 @@
       "moreinfo": "http://www.michigan.gov/dnr/0,4570,7-153-10370_12145_12201-61173--,00.html",
       "thumb": "tigerThumb.png",
       "photos": [
-        {"src" :"salamander1.png"},
-        {"src" :"salamander2.png"},
-        {"src" :"salamander3.png"},
-        {"src" :"salamander4.png"}
+        {"src" :"salamander1.jpg"},
+        {"src" :"salamander2.jpg"},
+        {"src" :"salamander3.jpg"},
+        {"src" :"salamander4.jpg"}
       ]
     },
     {
@@ -459,10 +459,10 @@
       "moreinfo": "http://www.michigan.gov/dnr/0,4570,7-153-10370_12145_12201-61165--,00.html",
       "thumb": "mudpuppyThumb.png",
       "photos": [
-        {"src" :"salamander1.png"},
-        {"src" :"salamander2.png"},
-        {"src" :"salamander3.png"},
-        {"src" :"salamander4.png"}
+        {"src" :"salamander1.jpg"},
+        {"src" :"salamander2.jpg"},
+        {"src" :"salamander3.jpg"},
+        {"src" :"salamander4.jpg"}
       ]
     },
     {
@@ -476,10 +476,10 @@
       "moreinfo": "http://www.michigan.gov/dnr/0,4570,7-153-10370_12145_12201-61176--,00.html",
       "thumb": "4toedThumb.png",
       "photos": [
-        {"src" :"salamander1.png"},
-        {"src" :"salamander2.png"},
-        {"src" :"salamander3.png"},
-        {"src" :"salamander4.png"}
+        {"src" :"salamander1.jpg"},
+        {"src" :"salamander2.jpg"},
+        {"src" :"salamander3.jpg"},
+        {"src" :"salamander4.jpg"}
       ]
     },
     {
@@ -493,10 +493,10 @@
       "moreinfo": "http://www.michigan.gov/dnr/0,4570,7-153-10370_12145_12201-61171--,00.html",
       "thumb": "spottedThumb.png",
       "photos": [
-        {"src" :"salamander1.png"},
-        {"src" :"salamander2.png"},
-        {"src" :"salamander3.png"},
-        {"src" :"salamander4.png"}
+        {"src" :"salamander1.jpg"},
+        {"src" :"salamander2.jpg"},
+        {"src" :"salamander3.jpg"},
+        {"src" :"salamander4.jpg"}
       ]
     },
     {
@@ -510,10 +510,10 @@
       "moreinfo": "http://www.michigan.gov/dnr/0,4570,7-153-10370_12145_12201-60848--,00.html",
       "thumb": "newtThumb.png",
       "photos": [
-        {"src" :"salamander1.png"},
-        {"src" :"salamander2.png"},
-        {"src" :"salamander3.png"},
-        {"src" :"salamander4.png"}
+        {"src" :"salamander1.jpg"},
+        {"src" :"salamander2.jpg"},
+        {"src" :"salamander3.jpg"},
+        {"src" :"salamander4.jpg"}
       ]
     },
     {
@@ -524,10 +524,10 @@
       "moreinfo": "http://www.michigan.gov/dnr/0,4570,7-153-10370_12145_12201-33012--,00.html",
       "thumb": "marbledThumb.png",
       "photos": [
-        {"src" :"salamander1.png"},
-        {"src" :"salamander2.png"},
-        {"src" :"salamander3.png"},
-        {"src" :"salamander4.png"}
+        {"src" :"salamander1.jpg"},
+        {"src" :"salamander2.jpg"},
+        {"src" :"salamander3.jpg"},
+        {"src" :"salamander4.jpg"}
       ]
     },
     {
@@ -538,10 +538,10 @@
       "moreinfo": "http://www.michigan.gov/dnr/0,4570,7-153-10370_12145_12201-32988--,00.html",
       "thumb": "blueSpottedThumb.png",
       "photos": [
-        {"src" :"salamander1.png"},
-        {"src" :"salamander2.png"},
-        {"src" :"salamander3.png"},
-        {"src" :"salamander4.png"}
+        {"src" :"salamander1.jpg"},
+        {"src" :"salamander2.jpg"},
+        {"src" :"salamander3.jpg"},
+        {"src" :"salamander4.jpg"}
       ]
     }
   ],
@@ -556,10 +556,10 @@
       "moreinfo": "http://www.michigan.gov/dnr/0,4570,7-153-10370_12145_12201-61203--,00.html",
       "thumb": "butlerThumb.png",
       "photos": [
-        {"src" :"snake1.png"},
-        {"src" :"snake2.png"},
-        {"src" :"snake3.png"},
-        {"src" :"snake4.png"}
+        {"src" :"snake1.jpg"},
+        {"src" :"snake2.jpg"},
+        {"src" :"snake3.jpg"},
+        {"src" :"snake4.jpg"}
       ]
     },
     {
@@ -572,10 +572,10 @@
       "moreinfo": "http://www.michigan.gov/dnr/0,4570,7-153-10370_12145_12201-61212--,00.html",
       "thumb": "greenThumb.png",
       "photos": [
-        {"src" :"snake1.png"},
-        {"src" :"snake2.png"},
-        {"src" :"snake3.png"},
-        {"src" :"snake4.png"}
+        {"src" :"snake1.jpg"},
+        {"src" :"snake2.jpg"},
+        {"src" :"snake3.jpg"},
+        {"src" :"snake4.jpg"}
       ]
     },
     {
@@ -588,10 +588,10 @@
       "moreinfo": "http://www.michigan.gov/dnr/0,4570,7-153-10370_12145_12201-61211--,00.html",
       "thumb": "milkThumb.png",
       "photos": [
-        {"src" :"snake1.png"},
-        {"src" :"snake2.png"},
-        {"src" :"snake3.png"},
-        {"src" :"snake4.png"}
+        {"src" :"snake1.jpg"},
+        {"src" :"snake2.jpg"},
+        {"src" :"snake3.jpg"},
+        {"src" :"snake4.jpg"}
       ]
     },
     {
@@ -604,10 +604,10 @@
       "moreinfo": "http://www.michigan.gov/dnr/0,4570,7-153-10370_12145_12201-61196--,00.html",
       "thumb": "waterThumb.png",
       "photos": [
-        {"src" :"snake1.png"},
-        {"src" :"snake2.png"},
-        {"src" :"snake3.png"},
-        {"src" :"snake4.png"}
+        {"src" :"snake1.jpg"},
+        {"src" :"snake2.jpg"},
+        {"src" :"snake3.jpg"},
+        {"src" :"snake4.jpg"}
       ]
     },
     {
@@ -620,10 +620,10 @@
       "moreinfo": "http://www.michigan.gov/dnr/0,4570,7-153-10370_12145_12201-61197--,00.html",
       "thumb": "queenThumb.png",
       "photos": [
-        {"src" :"snake1.png"},
-        {"src" :"snake2.png"},
-        {"src" :"snake3.png"},
-        {"src" :"snake4.png"}
+        {"src" :"snake1.jpg"},
+        {"src" :"snake2.jpg"},
+        {"src" :"snake3.jpg"},
+        {"src" :"snake4.jpg"}
       ]
     },
     {
@@ -636,10 +636,10 @@
       "moreinfo": "http://www.michigan.gov/dnr/0,4570,7-153-10370_12145_12201-61198--,00.html",
       "thumb": "brownThumb.png",
       "photos": [
-        {"src" :"snake1.png"},
-        {"src" :"snake2.png"},
-        {"src" :"snake3.png"},
-        {"src" :"snake4.png"}
+        {"src" :"snake1.jpg"},
+        {"src" :"snake2.jpg"},
+        {"src" :"snake3.jpg"},
+        {"src" :"snake4.jpg"}
       ]
     },
     {
@@ -652,10 +652,10 @@
       "moreinfo": "http://www.michigan.gov/dnr/0,4570,7-153-10370_12145_12201-61199--,00.html",
       "thumb": "redBelliedThumb.png",
       "photos": [
-        {"src" :"snake1.png"},
-        {"src" :"snake2.png"},
-        {"src" :"snake3.png"},
-        {"src" :"snake4.png"}
+        {"src" :"snake1.jpg"},
+        {"src" :"snake2.jpg"},
+        {"src" :"snake3.jpg"},
+        {"src" :"snake4.jpg"}
       ]
     },
     {
@@ -668,10 +668,10 @@
       "moreinfo": "http://www.michigan.gov/dnr/0,4570,7-153-10370_12145_12201-61200--,00.html",
       "thumb": "garterThumb.png",
       "photos": [
-        {"src" :"snake1.png"},
-        {"src" :"snake2.png"},
-        {"src" :"snake3.png"},
-        {"src" :"snake4.png"}
+        {"src" :"snake1.jpg"},
+        {"src" :"snake2.jpg"},
+        {"src" :"snake3.jpg"},
+        {"src" :"snake4.jpg"}
       ]
     },
     {
@@ -683,10 +683,10 @@
       "moreinfo": "http://www.michigan.gov/dnr/0,4570,7-153-10370_12145_12201-61204--,00.html",
       "thumb": "ribbonThumb.png",
       "photos": [
-        {"src" :"snake1.png"},
-        {"src" :"snake2.png"},
-        {"src" :"snake3.png"},
-        {"src" :"snake4.png"}
+        {"src" :"snake1.jpg"},
+        {"src" :"snake2.jpg"},
+        {"src" :"snake3.jpg"},
+        {"src" :"snake4.jpg"}
       ]
     },
     {
@@ -699,10 +699,10 @@
       "moreinfo": "http://www.michigan.gov/dnr/0,4570,7-153-10370_12145_12201-61205--,00.html",
       "thumb": "ringNeckThumb.png",
       "photos": [
-        {"src" :"snake1.png"},
-        {"src" :"snake2.png"},
-        {"src" :"snake3.png"},
-        {"src" :"snake4.png"}
+        {"src" :"snake1.jpg"},
+        {"src" :"snake2.jpg"},
+        {"src" :"snake3.jpg"},
+        {"src" :"snake4.jpg"}
       ]
     },
     {
@@ -715,10 +715,10 @@
       "moreinfo": "http://www.michigan.gov/dnr/0,4570,7-153-10370_12145_12201-61207--,00.html",
       "thumb": "hogNosedThumb.png",
       "photos": [
-        {"src" :"snake1.png"},
-        {"src" :"snake2.png"},
-        {"src" :"snake3.png"},
-        {"src" :"snake4.png"}
+        {"src" :"snake1.jpg"},
+        {"src" :"snake2.jpg"},
+        {"src" :"snake3.jpg"},
+        {"src" :"snake4.jpg"}
       ]
     },
     {
@@ -731,10 +731,10 @@
       "moreinfo": "http://www.michigan.gov/dnr/0,4570,7-153-10370_12145_12201-61208--,00.html",
       "thumb": "racerThumb.png",
       "photos": [
-        {"src" :"snake1.png"},
-        {"src" :"snake2.png"},
-        {"src" :"snake3.png"},
-        {"src" :"snake4.png"}
+        {"src" :"snake1.jpg"},
+        {"src" :"snake2.jpg"},
+        {"src" :"snake3.jpg"},
+        {"src" :"snake4.jpg"}
       ]
     },
     {
@@ -747,10 +747,10 @@
       "moreinfo": "http://www.michigan.gov/dnr/0,4570,7-153-10370_12145_12201-61209--,00.html",
       "thumb": "ratThumb.png",
       "photos": [
-        {"src" :"snake1.png"},
-        {"src" :"snake2.png"},
-        {"src" :"snake3.png"},
-        {"src" :"snake4.png"}
+        {"src" :"snake1.jpg"},
+        {"src" :"snake2.jpg"},
+        {"src" :"snake3.jpg"},
+        {"src" :"snake4.jpg"}
       ]
     },
     {
@@ -763,10 +763,10 @@
       "moreinfo": "http://www.michigan.gov/dnr/0,4570,7-153-10370_12145_12201-61210--,00.html",
       "thumb": "foxThumb.png",
       "photos": [
-        {"src" :"snake1.png"},
-        {"src" :"snake2.png"},
-        {"src" :"snake3.png"},
-        {"src" :"snake4.png"}
+        {"src" :"snake1.jpg"},
+        {"src" :"snake2.jpg"},
+        {"src" :"snake3.jpg"},
+        {"src" :"snake4.jpg"}
       ]
     },
     {
@@ -779,10 +779,10 @@
       "moreinfo": "http://www.michigan.gov/dnr/0,4570,7-153-10370_12145_12201-60850--,00.html",
       "thumb": "kirklandsThumb.png",
       "photos": [
-        {"src" :"snake1.png"},
-        {"src" :"snake2.png"},
-        {"src" :"snake3.png"},
-        {"src" :"snake4.png"}
+        {"src" :"snake1.jpg"},
+        {"src" :"snake2.jpg"},
+        {"src" :"snake3.jpg"},
+        {"src" :"snake4.jpg"}
       ]
     },
     {
@@ -794,10 +794,10 @@
       "moreinfo": "http://www.michigan.gov/dnr/0,4570,7-153-10370_12145_12201-32995--,00.html",
       "thumb": "massThumb.png",
       "photos": [
-        {"src" :"snake1.png"},
-        {"src" :"snake2.png"},
-        {"src" :"snake3.png"},
-        {"src" :"snake4.png"}
+        {"src" :"snake1.jpg"},
+        {"src" :"snake2.jpg"},
+        {"src" :"snake3.jpg"},
+        {"src" :"snake4.jpg"}
       ]
     },
     {
@@ -808,10 +808,10 @@
       "moreinfo": "http://www.michigan.gov/dnr/0,4570,7-153-10370_12145_12201-33017--,00.html",
       "thumb": "copperBelliedThumb.png",
       "photos": [
-        {"src" :"snake1.png"},
-        {"src" :"snake2.png"},
-        {"src" :"snake3.png"},
-        {"src" :"snake4.png"}
+        {"src" :"snake1.jpg"},
+        {"src" :"snake2.jpg"},
+        {"src" :"snake3.jpg"},
+        {"src" :"snake4.jpg"}
       ]
     }
   ]

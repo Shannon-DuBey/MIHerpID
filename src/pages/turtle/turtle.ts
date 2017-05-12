@@ -26,10 +26,14 @@ export class TurtlePage {
   turtleSelected(turtle) {
     this.thumb = "turtlePhotos/" + turtle.thumb;
     this.navCtrl.push(DetailPage, {
+      type: 'turtle',
       id: turtle.id,
       commonname: turtle.commonname,
       latinname: turtle.latinname,
-      narrative: turtle.narrative,
+      identification: turtle.identification,
+      habitat: turtle.habitat,
+      breeding: turtle.breeding,
+      range: turtle.range,
       moreinfo: turtle.moreinfo,
       thumb: this.thumb,
       photos: turtle.photos

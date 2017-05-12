@@ -9,14 +9,29 @@
   </ion-navbar>
 </ion-header>
 
-<ion-content padding>
+<ion-content>
 
-  <h2>Latin Name: {{this.latinname}}</h2>
-  <img src="assets/img/{{this.thumb}}" />
+  <p><span class="latinName">Latin Name:</span>  {{this.latinname}}</p>
+  <img src="assets/img/{{this.type}}Photos/{{this.photos[0].src}}" />
 
-  <p>Identification: {{this.identification}}</p>
-  <p>Habitat: {{this.habitat}}</p>
-  <p>Reproduction: {{this.reproduction}}</p>
-  <p>Range & Status:  {{this.range}}</p>
+  <div padding>
+    <h4 class="detailTitle">Identification:</h4>
+    <p>
+        {{this.identification}}
+    </p>
+
+    <h4 class="detailTitle">Habitat:</h4>
+    <p>
+        {{this.habitat}}
+    </p>
+    <h4 class="detailTitle">Breeding:</h4>
+    <p>
+      {{this.breeding}}
+    </p>
+    <h4 class="detailTitle">Range & Status:</h4>
+    <p>
+      {{this.range}}
+    </p>
+  </div>
 
 </ion-content>
