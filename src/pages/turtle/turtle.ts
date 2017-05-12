@@ -10,7 +10,7 @@ import { DetailPage } from '../detail/detail';
 })
 export class TurtlePage {
   turtleData: any;
-  turtleName: any;
+  turtleName: string;
   thumb: any;
 
   constructor(public navCtrl: NavController, public dataService: DataService) {
