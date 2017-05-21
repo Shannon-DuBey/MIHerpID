@@ -31,9 +31,23 @@ page-detail {
     color:#312d2d;
   }
 
-  img {
+  img.header {
     border-top: 2px solid #999;
     border-bottom: 2px solid #999;
+  }
+
+  .swiper-container-horizontal > .swiper-pagination-bullets {
+    bottom:5px;
+  }
+
+  .swiper-pagination-bullet {
+    opacity: .3;
+  }
+
+  .swiper-pagination-bullet-active {
+    background: #000;
+    opacity: 1;
+    border:1px solid #dedede;
   }
 
 }

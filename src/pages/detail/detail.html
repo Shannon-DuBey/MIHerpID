@@ -15,7 +15,7 @@
       <span class="latinName">Latin Name:</span>
       {{this.latinname}}
   </p>
-  <img src="assets/img/{{this.type}}Photos/{{this.photos[0].src}}" />
+  <img src="assets/img/{{this.type}}Photos/{{this.photos[0].src}}" class="header"/>
 
   <div padding>
     <h4 class="detailTitle">Identification:</h4>
@@ -23,18 +23,55 @@
         {{this.identification}}
     </p>
 
+    <span *ngIf="hasVoice">
+      <h4 class="detailTitle">Voice:</h4>
+      <p>
+          {{this.voice}}
+      </p>
+    </span>
+
     <h4 class="detailTitle">Habitat:</h4>
     <p>
         {{this.habitat}}
     </p>
+
+    <span *ngIf="hasHabits">
+      <h4 class="detailTitle">Habits:</h4>
+      <p>
+          {{this.habits}}
+      </p>
+    </span>
+
     <h4 class="detailTitle">Breeding:</h4>
     <p>
       {{this.breeding}}
     </p>
-    <h4 class="detailTitle">Range & Status:</h4>
+
+    <h4 class="detailTitle">Range:</h4>
     <p>
       {{this.range}}
     </p>
+
+    <span *ngIf="hasStatus">
+      <h4 class="detailTitle">Status:</h4>
+      <p>
+          {{this.status}}
+      </p>
+    </span>
+
+    <h4 class="detailTitle">More Information</h4>
+    <p>
+      View this species on the <a href="{{ this.moreinfo }}" target="_blank">Michigan DNR Page</a>
+    </p>
+
+
+    <h4 class="detailTitle">Potos</h4>
+    <ion-slides pager="true">
+      <ion-slide *ngFor="let photo of this.photos">
+        <img data-src="assets/img/{{this.type}}Photos/{{photo.src}}" (click)="zoomImage(photo.src)"/>
+      </ion-slide>
+    </ion-slides>
+
   </div>
 
 </ion-content>

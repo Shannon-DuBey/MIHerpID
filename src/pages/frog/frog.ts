@@ -36,7 +36,8 @@ export class FrogPage {
       range: frog.range,
       moreinfo: frog.moreinfo,
       thumb: this.thumb,
-      photos: frog.photos
+      photos: frog.photos,
+      voice: frog.voice,
     });
   }
 
