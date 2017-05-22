@@ -37,7 +37,6 @@ export class SalamanderPage {
       moreinfo: salamander.moreinfo,
       thumb: this.thumb,
       photos: salamander.photos,
-      habits: salamander.habits,
       status: salamander.status
     });
   }

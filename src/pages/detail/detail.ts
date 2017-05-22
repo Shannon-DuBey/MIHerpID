@@ -21,11 +21,9 @@ export class DetailPage {
     photos: any;
 
     hasVoice: boolean;
-    hasHabits: boolean;
     hasStatus: boolean;
 
     voice: string;
-    habits: string;
     status: string;
 
   constructor(private navParams: NavParams) {
@@ -43,15 +41,13 @@ export class DetailPage {
 
 
     this.hasVoice = false;
-    this.hasHabits = false;
     this.hasStatus = false;
 
     if (this.type == 'frog'){
       this.hasVoice = true;
       this.voice = navParams.get('voice');
     } else if (this.type == 'salamander'){
-      this.hasHabits = true;
-      this.habits = navParams.get('habits');
+
       if (this.id == 'Ambystomatexanum') {
         this.status = navParams.get('status');
         this.hasStatus = true;

@@ -36,8 +36,11 @@ page-detail {
     border-bottom: 2px solid #999;
   }
 
+  .swiper-container {
+    padding-bottom:10px;
+  }
   .swiper-container-horizontal > .swiper-pagination-bullets {
-    bottom:5px;
+    bottom:0;
   }
 
   .swiper-pagination-bullet {
@@ -47,7 +50,6 @@ page-detail {
   .swiper-pagination-bullet-active {
     background: #000;
     opacity: 1;
-    border:1px solid #dedede;
   }
 
 }
