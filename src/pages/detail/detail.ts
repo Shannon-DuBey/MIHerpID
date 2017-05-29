@@ -21,10 +21,12 @@ export class DetailPage {
     photos: any;
 
     hasVoice: boolean;
+    hasMedia: boolean;
     hasHabits: boolean;
     hasStatus: boolean;
 
     voice: string;
+    media:any;
     habits: string;
     status: string;
 
@@ -49,6 +51,7 @@ export class DetailPage {
     if (this.type == 'frog'){
       this.hasVoice = true;
       this.voice = navParams.get('voice');
+      this.media = navParams.get('media');
     } else if (this.type == 'salamander'){
       this.hasHabits = true;
       this.habits = navParams.get('habits');
@@ -60,10 +63,6 @@ export class DetailPage {
 
 
 
-  }
-
-  zoomImage(photo){
-    console.log(photo);
   }
 
 }

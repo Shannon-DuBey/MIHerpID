@@ -180,6 +180,10 @@
       "photos": [
         {"src" :"fowlers1.jpg"},
         {"src" :"fowlers2.jpg"}
+      ],
+      "media": [
+        {"src":"fowlersToad.mp3",
+        "title":"Fowlers Toad"}
       ]
     },
     {
@@ -198,6 +202,10 @@
         {"src" :"green2.jpg"},
         {"src" :"green3.jpg"},
         {"src" :"green4.jpg"}
+      ],
+      "media": [
+        {"src":"greenFrog.mp3",
+        "title":"Green Frog"}
       ]
 
     },
@@ -217,6 +225,10 @@
         {"src" :"mink2.jpg"},
         {"src" :"mink3.jpg"},
         {"src" :"mink4.jpg"}
+      ],
+      "media": [
+        {"src":"minkFrog.mp3",
+        "title":"Mink Frog"}
       ]
     },
     {
@@ -234,6 +246,10 @@
         {"src" :"chorus1.jpg"},
         {"src" :"chorus2.jpg"},
         {"src" :"chorus3.jpg"}
+      ],
+      "media": [
+        {"src":"westernChorusFrog.mp3",
+        "title":"W Chorus Frog"}
       ]
     },
     {
@@ -252,6 +268,12 @@
         {"src" :"tree2.jpg"},
         {"src" :"tree3.jpg"},
         {"src" :"tree4.jpg"}
+      ],
+      "media": [
+        {"src":"easternGrayTreefrog.mp3",
+        "title":"E Gray Tree Frog"},
+        {"src":"copesGray_and_EasternGrayTreefrog.mp3",
+        "title":"Copes Gray Tree Frog & E Gray Tree Frog"}
       ]
     },
     {
@@ -269,6 +291,10 @@
         {"src" :"amToad1.jpg"},
         {"src" :"amToad2.jpg"},
         {"src" :"amToad3.jpg"}
+      ],
+      "media": [
+        {"src":"americanToad.mp3",
+        "title":"American Toad"}
       ]
     },
     {
@@ -286,6 +312,10 @@
         {"src" :"bull1.jpg"},
         {"src" :"bull2.jpg"},
         {"src" :"bull3.jpg"}
+      ],
+      "media": [
+        {"src":"bullfrog.mp3",
+        "title":"Bullfrog"}
       ]
     },
     {
@@ -304,6 +334,10 @@
         {"src" :"wood2.jpg"},
         {"src" :"wood3.jpg"},
         {"src" :"wood4.jpg"}
+      ],
+      "media": [
+        {"src":"woodFrog.mp3",
+        "title":"Wood Frog"}
       ]
     },
     {
@@ -321,6 +355,10 @@
         {"src" :"leopard1.jpg"},
         {"src" :"leopard2.jpg"},
         {"src" :"leopard3.jpg"}
+      ],
+      "media": [
+        {"src":"northernLeopardFrog.mp3",
+        "title":"N Leopard Frog"}
       ]
     },
     {
@@ -338,6 +376,10 @@
         {"src" :"pickerel1.jpg"},
         {"src" :"pickerel2.jpg"},
         {"src" :"pickerel3.jpg"}
+      ],
+      "media": [
+        {"src":"pickerelFrog.mp3",
+        "title":"Pickerel Frog"}
       ]
     },
     {
@@ -355,6 +397,10 @@
         {"src" :"peeper1.jpg"},
         {"src" :"peeper2.jpg"},
         {"src" :"peeper3.jpg"}
+      ],
+      "media": [
+        {"src":"springPeeper.mp3",
+        "title":"Spring Peeper"}
       ]
     },
     {
@@ -372,6 +418,12 @@
         {"src" :"cricket1.jpg"},
         {"src" :"cricket2.jpg"},
         {"src" :"cricket3.jpg"}
+      ],
+      "media": [
+        {"src":"blanchardsCricketFrog.mp3",
+        "title":"Blanchard's Cricket Frog"},
+        {"src":"blanchardsCricketFrog2.mp3",
+        "title":"Blanchard's Cricket Frog 2"}
       ]
     }
   ],

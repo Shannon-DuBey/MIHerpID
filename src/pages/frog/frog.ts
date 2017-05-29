@@ -38,6 +38,7 @@ export class FrogPage {
       thumb: this.thumb,
       photos: frog.photos,
       voice: frog.voice,
+      media: frog.media
     });
   }
 
