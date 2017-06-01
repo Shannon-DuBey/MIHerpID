@@ -21,9 +21,14 @@ export class DetailPage {
     photos: any;
 
     hasVoice: boolean;
+    voice: string;
+    hasMedia: boolean;
+    hasHabits: boolean;
     hasStatus: boolean;
 
     voice: string;
+    media:any;
+    habits: string;
     status: string;
 
   constructor(private navParams: NavParams) {
@@ -46,6 +51,7 @@ export class DetailPage {
     if (this.type == 'frog'){
       this.hasVoice = true;
       this.voice = navParams.get('voice');
+      this.media = navParams.get('media');
     } else if (this.type == 'salamander'){
 
       if (this.id == 'Ambystomatexanum') {
@@ -56,10 +62,6 @@ export class DetailPage {
 
 
 
-  }
-
-  zoomImage(photo){
-    console.log(photo);
   }
 
 }

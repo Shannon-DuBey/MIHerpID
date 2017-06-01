@@ -28,6 +28,12 @@
       <p>
           {{this.voice}}
       </p>
+      <ion-list no-lines class="media">
+        Play Sounds:
+        <ion-item ion-item *ngFor="let sound of this.media" >
+          <a href="assets/sounds/{{sound.src}}" class="media" >{{sound.title}}</a>
+        </ion-item>
+      </ion-list>
     </span>
 
     <h4 class="detailTitle">Habitat:</h4>
