@@ -56,8 +56,34 @@
   min-height: 45px;
 }
 
+.tabs-md .tab-button,
+.tabs-ios .tab-button {
+  min-height: 4.5rem;
+}
+
+.tabs-md .tab-button-icon,
+.tabs-ios .tab-button-icon {
+  font-size: 2.25rem;
+}
+.tabs-md[tabsLayout=icon-top] .has-icon .tab-button-text,
+.tabs-ios[tabsLayout=icon-top] .has-icon .tab-button-text {
+  margin-top: -4px;
+}
+
 .commonName {
-  max-width:85%;
+  max-width: 85%;
   overflow: initial;
   white-space: initial;
+}
+
+.center {
+  display: block;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.content-md hr,
+.content-ios hr {
+  height: 2px;
+  background-color: rgba(248, 248, 248, 0.4);
 }

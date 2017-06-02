@@ -2,12 +2,12 @@ import { NgModule, ErrorHandler } from '@angular/core';
 import { IonicApp, IonicModule, IonicErrorHandler } from 'ionic-angular';
 import { MyApp } from './app.component';
 import { DataService } from '../providers/data-service';
-import { IonicImageViewerModule } from 'ionic-img-viewer';
 
 import { AboutPage } from '../pages/about/about';
 import { ContactPage } from '../pages/contact/contact';
 import { HomePage } from '../pages/home/home';
 import { TabsPage } from '../pages/tabs/tabs';
+import { ModalPage } from '../pages/modal/modal';
 
 /* App pages */
 import { FrogPage } from '../pages/frog/frog';
@@ -23,6 +23,7 @@ import { DetailPage } from '../pages/detail/detail';
     ContactPage,
     HomePage,
     TabsPage,
+    ModalPage,
     FrogPage,
     TurtlePage,
     SalamanderPage,
@@ -30,8 +31,7 @@ import { DetailPage } from '../pages/detail/detail';
     DetailPage
   ],
   imports: [
-    IonicModule.forRoot(MyApp),
-    IonicImageViewerModule
+    IonicModule.forRoot(MyApp)
   ],
   bootstrap: [IonicApp],
   entryComponents: [
@@ -40,6 +40,7 @@ import { DetailPage } from '../pages/detail/detail';
     ContactPage,
     HomePage,
     TabsPage,
+    ModalPage,
     FrogPage,
     TurtlePage,
     SalamanderPage,

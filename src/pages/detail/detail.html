@@ -29,10 +29,12 @@
           {{this.voice}}
       </p>
       <ion-list no-lines class="media">
-        Play Sounds:
+        <span class="center">Play Sounds:</span>
+        <hr />
         <ion-item ion-item *ngFor="let sound of this.media" >
-          <a href="assets/sounds/{{sound.src}}" class="media" >{{sound.title}}</a>
+          <button class="media" ion-button block (click)="openModal(sound.src, this.type, 'sound', this.commonname)">{{sound.title}}</button>
         </ion-item>
+        <hr />
       </ion-list>
     </span>
 
@@ -67,7 +69,7 @@
     <h4 class="detailTitle">Photos</h4>
     <ion-slides pager="true">
       <ion-slide *ngFor="let photo of this.photos">
-        <img data-src="assets/img/{{this.type}}Photos/{{photo.src}}" (click)="zoomImage(photo.src)" imageViewer/>
+        <img data-src="assets/img/{{this.type}}Photos/{{photo.src}}" (click)="openModal(photo.src, this.type, 'photo', this.commonname)" />
       </ion-slide>
     </ion-slides>
 

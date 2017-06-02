@@ -3,6 +3,9 @@ import { Component } from '@angular/core';
 //import { NavController } from 'ionic-angular';
 import { NavParams } from 'ionic-angular';
 
+import { ModalController } from 'ionic-angular';
+import { ModalPage } from '../modal/modal';
+
 @Component({
   selector: 'page-detail',
   templateUrl: 'detail.html'
@@ -21,7 +24,6 @@ export class DetailPage {
     photos: any;
 
     hasVoice: boolean;
-    voice: string;
     hasMedia: boolean;
     hasHabits: boolean;
     hasStatus: boolean;
@@ -31,7 +33,7 @@ export class DetailPage {
     habits: string;
     status: string;
 
-  constructor(private navParams: NavParams) {
+  constructor(private navParams: NavParams, public modalCtrl: ModalController) {
     this.type = navParams.get('type');
     this.id = navParams.get('id');
     this.commonname = navParams.get('commonname');
@@ -60,8 +62,19 @@ export class DetailPage {
       }
     }
 
-
-
   }
 
+  openModal(item, category, itemType, itemName) {
+    let obj = {item: item, category: category, itemType: itemType, itemName: itemName};
+    let myModal = this.modalCtrl.create(ModalPage, obj);
+    myModal.present();
+  }
+
+  modalLaunch(fileName) {
+    console.log('file: ' + fileName);
+  }
+
+  zoomImage(photo) {
+    console.log('photo: ' + photo);
+  }
 }

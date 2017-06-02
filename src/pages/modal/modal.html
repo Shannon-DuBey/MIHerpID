@@ -1,0 +1,16 @@
+<ion-content *ngIf="isAudio">
+
+  <h2 class="modalTitle">{{ itemName }}</h2>
+
+  <video *ngIf="isAudio" controls autoplay name="media">
+    <source src="assets/sounds/{{itemToShow}}" type="audio/mpeg">
+  </video>
+
+  <button class="modalClose" ion-button block (click)="closeModal()">Back</button>
+
+</ion-content>
+
+<ion-content *ngIf="isPhoto">
+  <img src="assets/img/{{category}}Photos/{{itemToShow}}" class="fullView"/>
+  <button class="modalCloseX" ion-button (click)="closeModal()">X</button>
+</ion-content>
