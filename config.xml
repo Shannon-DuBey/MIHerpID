@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <widget id="com.ionicframework.tabsandmenu104862" version="1.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
   <name>MIHerpId</name>
-  <description>Offline Identification App for all of Michigan's Frogs, Toads, Turtles, Salamanders, & Snakes.</description>
+  <description>Offline Identification App for all of Michigan's Frogs, Toads, Turtles, Lizards, Salamanders, and Snakes.</description>
   <author email="sdTester001@gmail.com" href="http://1107designs.com/">1107Designs</author>
   <content src="index.html"/>
   <access origin="*"/>
