@@ -69,7 +69,7 @@
     <h4 class="detailTitle">Photos</h4>
     <ion-slides pager="true">
       <ion-slide *ngFor="let photo of this.photos">
-        <img data-src="assets/img/{{this.type}}Photos/{{photo.src}}" (click)="openModal(photo.src, this.type, 'photo', this.commonname)" />
+        <img data-src="assets/img/{{this.type}}Photos/{{photo.src}}" (click)="openModal(this.photos, this.type, 'photo', this.commonname)" />
       </ion-slide>
     </ion-slides>
 

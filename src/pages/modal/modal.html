@@ -11,6 +11,10 @@
 </ion-content>
 
 <ion-content *ngIf="isPhoto">
-  <img src="assets/img/{{category}}Photos/{{itemToShow}}" class="fullView"/>
-  <button class="modalCloseX" ion-button (click)="closeModal()">X</button>
+  <ion-icon class="modalClose2" name="close-circle" (click)="closeModal()"></ion-icon>
+  <ion-slides pager="true">
+    <ion-slide *ngFor="let photo of itemToShow">
+      <img data-src="assets/img/{{category}}Photos/{{photo.src}}" />
+    </ion-slide>
+  </ion-slides>
 </ion-content>

@@ -4,7 +4,7 @@
       <ion-icon name="menu"></ion-icon>
     </button>
     <ion-title>
-      Salamanders
+      Lizards & Salamanders
     </ion-title>
   </ion-navbar>
 </ion-header>
@@ -16,6 +16,7 @@
         <img src='./assets/img/salamanderPhotos/{{ salamander.thumb }}'>
       </ion-thumbnail>
       <h2  class="commonName">{{ salamander.commonname }}</h2>
+      <span *ngIf="isRare"><ion-icon name="information-circle" class="isRare"></ion-icon></span>
       <button ion-button clear item-right> <ion-icon name="arrow-forward"></ion-icon> </button>
     </ion-item>
   </ion-list>

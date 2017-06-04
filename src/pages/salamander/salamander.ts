@@ -12,9 +12,11 @@ export class SalamanderPage {
   salamanderData: any;
   salamanderName: string;
   thumb: any;
+  isRare: boolean;
 
   constructor(public navCtrl: NavController, public dataService: DataService) {
     this.getSalamanderData();
+
   }
 
   getSalamanderData(){

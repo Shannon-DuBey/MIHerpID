@@ -31,16 +31,12 @@ page-modal {
     bottom: 0;
   }
 
-  .modalCloseX {
-    background-color: #2d559a;
+  .modalClose2 {
     position: absolute;
     top: 2px;
     left: 2px;
-    width:30px;
-    height:30px;
-    margin:0;
-    padding:0;
-    border-radius: 15px;
+    z-index: 300;
+    font-size: 1.5em;
   }
 
 

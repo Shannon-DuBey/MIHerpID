@@ -429,6 +429,39 @@
   ],
   "salamanders": [
     {
+      "id": "Eumecesfasciatus",
+      "commonname": "Five-lined Skink",
+      "latinname": "Eumeces fasciatus",
+      "identification": "They are named for the five cream or yellow-toned stripes running from their nose down through the tail. Another interesting characteristic is the bluish color in the tails of juveniles. Female adults often retain some of this blue throughout their life. Tails on mature males will turn a gray color.",
+      "habitat":"Skinks are most likely to be encountered in wooded or partially wooded habitat. One important component is basking areas where the lizards can sit to increase their body temperatures. Favorite basking areas include stumps, logs, rocks, or outcroppings. Moist habitat areas are preferred. Because they are cold-blooded, skinks are most active from May to about October. During this period, they will hunt many types of invertebrates including crickets, grasshoppers, spiders, centipedes, and beetle larvae. Perhaps the most interesting thing about the skink is its predator escape system. When a predator grabs a skink by the tail, it will break off. The tail continues to wiggle after being disconnected and distracts the predator until the skink can escape. The skink later regrows a new tail.",
+      "breeding":"",
+      "range":"This species of skink is known from most Lower Peninsula counties and has also been reported in the mid-section of the Upper Peninsula. They can be locally abundant in good habitat, but many Michigan residents go years without encountering one.",
+      "moreinfo": "http://www.michigan.gov/dnr/0,4570,7-153-10370_12145_12201-32981--,00.html",
+      "thumb":"skinkThumb.png",
+      "photos":[
+        {"src":"skink1.jpg"},
+        {"src":"skink2.jpg"},
+        {"src":"skink3.jpg"}
+      ]
+    },
+    {
+      "id": "Aspidoscelissexlineata",
+      "commonname": "Six-lined Race Runner",
+      "latinname": "Aspidoscelis sexlineata",
+      "identification": "The Six-lined Racerunner is a slim lizard with a very long tail (about twice its body length) and a pointed snout. It is black, gray, brown or olive in color with six yellowish green, white, pale blue, or gray stripes running down the back and sides with an often indistinct brownish stripe down the middle of the back. In adults, especially males, the neck and front part of the body may be green or blue-green. The belly is generally white, but in males, it is blue. Adult total lengths range from 6 to 10.5 in (15-27 cm), with maximum body or snout-vent length of 3.4 in (8.6 cm).",
+      "breeding":"Breeding from first week of May to second week of June",
+      "habitat":"In other parts of the species’ range, Six-lined Racerunners typically occur in sunny, open, well-drained, grassy habitats with areas of bare sand or loose sandy soil such as prairies, oak savannas, riverbanks, abandoned fields, vacant lots and road cuts.",
+      "range":"The Six-lined Racerunner is known from only one population in east-central Michigan. This site can be characterized as dry, bare, rocky, old field habitat along a roadside which is likely the result of disturbance associated with construction of the road and not a natural community. The surrounding habitat is mesic northern forest. This population is disjunct from the rest of the species' range which is located primarily south and west of Michigan.",
+      "moreinfo": "http://mnfi.anr.msu.edu/explorer/species.cfm?id=11498",
+      "thumb":"racerunnerThumb.png",
+      "photos":[
+        {"src":"racerunner1.jpg"},
+        {"src":"racerunner2.jpg"},
+        {"src":"racerunner3.jpg"}
+      ],
+      "status":"rare"
+    },
+    {
       "id": "Sirenintermedianettingi",
       "commonname": "Western Lesser Siren",
       "latinname": "Siren intermedia nettingi",
@@ -442,7 +475,8 @@
         {"src" :"siren1.jpg"},
         {"src" :"siren2.jpg"},
         {"src" :"siren3.jpg"}
-      ]
+      ],
+      "status":"rare"
     },
     {
       "id": "Plethodoncinereus",
@@ -468,7 +502,7 @@
       "habitat" : "In its limited southeastern Michigan range, this salamander prefers moist hardwood forest habitat; farther south the species is also found in fragmented woodlands, fields, and farming areas.",
       "breeding": "Breeding habits are similar to those of the Blue spotted Salamander, described under Salamander Reproduction above. Small mouthed Salamanders sometimes breed in ponds, floodings, or ditches outside of wooded areas.",
       "range": "The range of the Small mouthed Salamander barely enters Michigan in a few southeastern counties; it is listed as an Endangered Species by the Department of Natural Resources. Identifying existing colonies and protecting critical habits will be needed to ensure that it remains a viable part of Michigan's fauna.",
-      "status": "Endangered in Michigan.",
+      "status": "endangered.",
       "moreinfo": "http://www.michigan.gov/dnr/0,4570,7-153-10370_12145_12201-61174--,00.html",
       "thumb": "smallMouthThumb.png",
       "photos": [
@@ -600,10 +634,9 @@
       "moreinfo": "http://www.michigan.gov/dnr/0,4570,7-153-10370_12145_12201-61203--,00.html",
       "thumb": "butlerThumb.png",
       "photos": [
-        {"src" :"snake1.jpg"},
-        {"src" :"snake2.jpg"},
-        {"src" :"snake3.jpg"},
-        {"src" :"snake4.jpg"}
+        {"src" :"butler1.jpg"},
+        {"src" :"butler2.jpg"},
+        {"src" :"butler3.jpg"}
       ]
     },
     {
@@ -617,10 +650,10 @@
       "moreinfo": "http://www.michigan.gov/dnr/0,4570,7-153-10370_12145_12201-61212--,00.html",
       "thumb": "greenThumb.png",
       "photos": [
-        {"src" :"snake1.jpg"},
-        {"src" :"snake2.jpg"},
-        {"src" :"snake3.jpg"},
-        {"src" :"snake4.jpg"}
+        {"src" :"green1.jpg"},
+        {"src" :"green2.jpg"},
+        {"src" :"green3.jpg"},
+        {"src" :"green4.jpg"}
       ]
     },
     {
@@ -634,10 +667,9 @@
       "moreinfo": "http://www.michigan.gov/dnr/0,4570,7-153-10370_12145_12201-61211--,00.html",
       "thumb": "milkThumb.png",
       "photos": [
-        {"src" :"snake1.jpg"},
-        {"src" :"snake2.jpg"},
-        {"src" :"snake3.jpg"},
-        {"src" :"snake4.jpg"}
+        {"src" :"milk1.jpg"},
+        {"src" :"milk2.jpg"},
+        {"src" :"milk3.jpg"}
       ]
     },
     {
@@ -651,10 +683,9 @@
       "moreinfo": "http://www.michigan.gov/dnr/0,4570,7-153-10370_12145_12201-61196--,00.html",
       "thumb": "waterThumb.png",
       "photos": [
-        {"src" :"snake1.jpg"},
-        {"src" :"snake2.jpg"},
-        {"src" :"snake3.jpg"},
-        {"src" :"snake4.jpg"}
+        {"src" :"water1.jpg"},
+        {"src" :"water2.jpg"},
+        {"src" :"water3.jpg"}
       ]
     },
     {
@@ -668,10 +699,10 @@
       "moreinfo": "http://www.michigan.gov/dnr/0,4570,7-153-10370_12145_12201-61197--,00.html",
       "thumb": "queenThumb.png",
       "photos": [
-        {"src" :"snake1.jpg"},
-        {"src" :"snake2.jpg"},
-        {"src" :"snake3.jpg"},
-        {"src" :"snake4.jpg"}
+        {"src" :"queen1.jpg"},
+        {"src" :"queen2.jpg"},
+        {"src" :"queen3.jpg"},
+        {"src" :"queen4.jpg"}
       ]
     },
     {
@@ -685,10 +716,9 @@
       "moreinfo": "http://www.michigan.gov/dnr/0,4570,7-153-10370_12145_12201-61198--,00.html",
       "thumb": "brownThumb.png",
       "photos": [
-        {"src" :"snake1.jpg"},
-        {"src" :"snake2.jpg"},
-        {"src" :"snake3.jpg"},
-        {"src" :"snake4.jpg"}
+        {"src" :"brown1.jpg"},
+        {"src" :"brown2.jpg"},
+        {"src" :"brown3.jpg"}
       ]
     },
     {
@@ -700,12 +730,12 @@
       "habitat":"Red-bellied Snakes inhabit both fields and woods, but are most often found under boards and other objects at the edges of lumber piles or trash dumps. They feed on worms, slugs, and snails. ",
       "breeding":  "Up to 12 tiny (3 to 4 inch long) snakes are born in the summer.",
       "moreinfo": "http://www.michigan.gov/dnr/0,4570,7-153-10370_12145_12201-61199--,00.html",
-      "thumb": "redBelliedThumb.png",
+      "thumb": "redbelliedThumb.png",
       "photos": [
-        {"src" :"snake1.jpg"},
-        {"src" :"snake2.jpg"},
-        {"src" :"snake3.jpg"},
-        {"src" :"snake4.jpg"}
+        {"src" :"redbellied1.jpg"},
+        {"src" :"redbellied2.jpg"},
+        {"src" :"redbellied3.jpg"},
+        {"src" :"redbellied4.jpg"}
       ]
     },
     {
@@ -717,12 +747,11 @@
       "range":  "This species is the most common Michigan snake. They inhabit both peninsulas and survive even in urban areas.",
       "habitat":"These snakes are found almost everywhere in fields, marshes, woods, parks, and backyards. They feed on earthworms, frogs, toads, tadpoles, fish, and small mammals. Like many snakes, they release a musky smelling anal secretion when threatened or handled.",
       "moreinfo": "http://www.michigan.gov/dnr/0,4570,7-153-10370_12145_12201-61200--,00.html",
-      "thumb": "garterThumb.png",
+      "thumb": "eGarterThumb.png",
       "photos": [
-        {"src" :"snake1.jpg"},
-        {"src" :"snake2.jpg"},
-        {"src" :"snake3.jpg"},
-        {"src" :"snake4.jpg"}
+        {"src" :"eGarter1.jpg"},
+        {"src" :"eGarter2.jpg"},
+        {"src" :"eGarter3.jpg"}
       ]
     },
     {
@@ -736,10 +765,9 @@
       "moreinfo": "http://www.michigan.gov/dnr/0,4570,7-153-10370_12145_12201-61204--,00.html",
       "thumb": "ribbonThumb.png",
       "photos": [
-        {"src" :"snake1.jpg"},
-        {"src" :"snake2.jpg"},
-        {"src" :"snake3.jpg"},
-        {"src" :"snake4.jpg"}
+        {"src" :"ribbon1.jpg"},
+        {"src" :"ribbon2.jpg"},
+        {"src" :"ribbon3.jpg"}
       ]
     },
     {
@@ -751,12 +779,11 @@
       "range":  "Ring-necked Snakes have been recorded throughout Michigan, but are generally rare and local. They are common on some of the larger islands in Lake Michigan.",
       "habitat":"This snake lives in moist woodlands, usually staying hidden under logs, bark, or other objects. They feed on earthworms, salamanders, and smaller snakes.",
       "moreinfo": "http://www.michigan.gov/dnr/0,4570,7-153-10370_12145_12201-61205--,00.html",
-      "thumb": "ringNeckThumb.png",
+      "thumb": "ringneckThumb.png",
       "photos": [
-        {"src" :"snake1.jpg"},
-        {"src" :"snake2.jpg"},
-        {"src" :"snake3.jpg"},
-        {"src" :"snake4.jpg"}
+        {"src" :"ringneck1.jpg"},
+        {"src" :"ringneck2.jpg"},
+        {"src" :"ringneck3.jpg"}
       ]
     },
     {
@@ -768,12 +795,11 @@
       "range":  "Though recorded from most of the Lower Peninsula and the southern tip of the Upper Peninsula, Hog-nosed Snakes are most common in the western and northern LP. Their numbers have declined in many places, in part due to persecution by humans who mistakenly believe they are dangerous.",
       "habitat":"A snake of open, sandy woodlands - found in the wooded dunes of western Michigan. The upturned snout is used to burrow after toads, a favorite food. When threatened, hognose snakes puff up with air, flatten their necks and bodies, and hiss loudly. (This has led to local names like puff adder or hissing viper.) If this act is unsuccessful, they will writhe about, excrete a foul smelling musk, and then turn over with mouth agape and lie still, as though dead. Despite this intimidating behavior, Hog-nosed snakes are harmless to humans.",
       "moreinfo": "http://www.michigan.gov/dnr/0,4570,7-153-10370_12145_12201-61207--,00.html",
-      "thumb": "hogNosedThumb.png",
+      "thumb": "hognoseThumb.png",
       "photos": [
-        {"src" :"snake1.jpg"},
-        {"src" :"snake2.jpg"},
-        {"src" :"snake3.jpg"},
-        {"src" :"snake4.jpg"}
+        {"src" :"hognose1.jpg"},
+        {"src" :"hognose2.jpg"},
+        {"src" :"hognose3.jpg"}
       ]
     },
     {
@@ -787,10 +813,10 @@
       "moreinfo": "http://www.michigan.gov/dnr/0,4570,7-153-10370_12145_12201-61208--,00.html",
       "thumb": "racerThumb.png",
       "photos": [
-        {"src" :"snake1.jpg"},
-        {"src" :"snake2.jpg"},
-        {"src" :"snake3.jpg"},
-        {"src" :"snake4.jpg"}
+        {"src" :"racer1.jpg"},
+        {"src" :"racer2.jpg"},
+        {"src" :"racer3.jpg"},
+        {"src" :"racer4.jpg"}
       ]
     },
     {
@@ -804,10 +830,9 @@
       "moreinfo": "http://www.michigan.gov/dnr/0,4570,7-153-10370_12145_12201-61209--,00.html",
       "thumb": "ratThumb.png",
       "photos": [
-        {"src" :"snake1.jpg"},
-        {"src" :"snake2.jpg"},
-        {"src" :"snake3.jpg"},
-        {"src" :"snake4.jpg"}
+        {"src" :"rat1.jpg"},
+        {"src" :"rat2.jpg"},
+        {"src" :"rat3.jpg"}
       ]
     },
     {
@@ -819,12 +844,12 @@
       "range":  "The western fox snake is found in the Upper Peninsula, where it is often called a pine snake. The eastern fox snake, of the Great Lakes marshes in the southeastern Lower Peninsula, is listed as a THREATENED species by the Michigan DNR and is protected by state law. Their numbers have been reduced by habitat destruction and, locally, by pet trade exploitation.",
       "habitat":"The Western Fox Snake inhabits woods, old fields, and dune areas. The eastern form prefers marshes and adjacent wet meadows. Fox snakes feed on rodents, frogs, and birds. When threatened, they may coil, vibrate their tails, and strike, but are non venomous and harmless to humans.",
       "moreinfo": "http://www.michigan.gov/dnr/0,4570,7-153-10370_12145_12201-61210--,00.html",
-      "thumb": "foxThumb.png",
+      "thumb": "eFoxThumb.png",
       "photos": [
-        {"src" :"snake1.jpg"},
-        {"src" :"snake2.jpg"},
-        {"src" :"snake3.jpg"},
-        {"src" :"snake4.jpg"}
+        {"src" :"eFox1.jpg"},
+        {"src" :"eFox2.jpg"},
+        {"src" :"eFox3.jpg"},
+        {"src" :"eFox4.jpg"}
       ]
     },
     {
@@ -836,12 +861,11 @@
       "range":  "The few recent records for this species have been in the southern Lower Peninsula. Kirtland's Snake is listed as ENDANGERED by the Michigan Department of Natural Resources, and is protected in the state. Any sightings should be reported to the DNR Wildlife Division in Lansing.",
       "habitat":"Found in damp meadows, vacant lots, and open swampy woodlands. These earthworm and slug eating snakes stay underground much of the time, frequently using rodent or crayfish burrows. They flatten their bodies when threatened, but rarely bite and are completely harmless.",
       "moreinfo": "http://www.michigan.gov/dnr/0,4570,7-153-10370_12145_12201-60850--,00.html",
-      "thumb": "kirklandsThumb.png",
+      "thumb": "kirtlandsThumb.png",
       "photos": [
-        {"src" :"snake1.jpg"},
-        {"src" :"snake2.jpg"},
-        {"src" :"snake3.jpg"},
-        {"src" :"snake4.jpg"}
+        {"src" :"kirtlands1.jpg"},
+        {"src" :"kirtlands2.jpg"},
+        {"src" :"kirtlands3.jpg"}
       ]
     },
     {
@@ -855,10 +879,11 @@
       "moreinfo": "http://www.michigan.gov/dnr/0,4570,7-153-10370_12145_12201-32995--,00.html",
       "thumb": "massThumb.png",
       "photos": [
-        {"src" :"snake1.jpg"},
-        {"src" :"snake2.jpg"},
-        {"src" :"snake3.jpg"},
-        {"src" :"snake4.jpg"}
+        {"src" :"mass1.jpg"},
+        {"src" :"mass2.jpg"},
+        {"src" :"mass3.jpg"},
+        {"src" :"mass4.jpg"},
+        {"src" :"mass5.jpg"}
       ]
     },
     {
@@ -870,12 +895,11 @@
       "range":"This snake is extremely rare in Michigan. Its population is so low that it is listed as an endangered species in Michigan. It has also recently been listed by the U. S. Fish and Wildlife Service as a nationally threatened species.",
       "habitat":"The copper-bellied water snake prefers to live near wooded floodplains, shrub wetlands, and adjacent to slow moving rivers. As excellent swimmers, they hunt aquatic species including tadpoles, frogs, salamanders, insect larvae, and crayfish. In the spring, tadpoles seem to be especially tasty to hungry copper-bellied water snakes. Habitat for the copper-bellied water snake has declined dramatically. Wetlands drainage and development in preferred habitat has limited distribution to only a few small populations.  It has been found only in the southern third of the Lower Peninsula. Indiscriminate killing of snakes has also been a problem in local areas. It is listed as ENDANGERED by the Michigan Department of Natural Resources and is protected by law in the state.",
       "moreinfo": "http://www.michigan.gov/dnr/0,4570,7-153-10370_12145_12201-33017--,00.html",
-      "thumb": "copperBelliedThumb.png",
+      "thumb": "copperWaterThumb.png",
       "photos": [
-        {"src" :"snake1.jpg"},
-        {"src" :"snake2.jpg"},
-        {"src" :"snake3.jpg"},
-        {"src" :"snake4.jpg"}
+        {"src" :"copperWater1.jpg"},
+        {"src" :"copperWater2.jpg"},
+        {"src" :"copperWater3.jpg"}
       ]
     }
   ]
