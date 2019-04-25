@@ -1,6 +1,8 @@
 {
   "name": "MI Herp ID",
   "app_id": "2e6c20b1",
-  "v2": true,
-  "typescript": true
+  "type": "angular",
+  "integrations": {
+    "cordova": {}
+  }
 }

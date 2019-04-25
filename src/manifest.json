@@ -1,6 +1,6 @@
 {
-  "name": "Ionic",
-  "short_name": "Ionic",
+  "name": "MI Herp IDv4",
+  "short_name": "MIHerpID",
   "start_url": "index.html",
   "display": "standalone",
   "icons": [{

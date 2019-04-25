@@ -1,7 +1,9 @@
 import { Component, ViewChild } from '@angular/core';
 import { Platform, MenuController, Nav } from 'ionic-angular';
-import { StatusBar, Splashscreen } from 'ionic-native';
-import { TabsPage } from '../pages/tabs/tabs';
+import { StatusBar } from '@ionic-native/status-bar';
+import { SplashScreen } from '@ionic-native/splash-screen';
+
+import { TabsPage } from './tabs/tabs';
 
 export interface PageInterface {
   title: string;
@@ -25,12 +27,12 @@ export class MyApp {
 
   rootPage = TabsPage;
 
-  constructor(platform: Platform, public menu: MenuController) {
+  constructor(platform: Platform, statusBar: StatusBar, splashScreen: SplashScreen, public menu: MenuController) {
     platform.ready().then(() => {
       // Okay, so the platform is ready and our plugins are available.
       // Here you can do any higher level native things you might need.
-      StatusBar.styleDefault();
-      Splashscreen.hide();
+      statusBar.styleDefault();
+      splashScreen.hide();
     });
 
   }
@@ -50,7 +52,6 @@ export class MyApp {
         console.log("Didn't set nav root");
       });
     }
-
 
   }
 
