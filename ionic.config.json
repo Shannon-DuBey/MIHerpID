@@ -1,8 +1,8 @@
 {
   "name": "MI Herp ID",
-  "app_id": "2e6c20b1",
-  "type": "ionic-angular",
   "integrations": {
     "cordova": {}
-  }
+  },
+  "type": "ionic-angular",
+  "id": "2e6c20b1"
 }
