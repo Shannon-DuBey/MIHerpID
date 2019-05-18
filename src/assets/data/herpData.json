@@ -222,9 +222,7 @@
       "thumb": "minkThumb.png",
       "photos": [
         {"src" :"mink1.jpg"},
-        {"src" :"mink2.jpg"},
-        {"src" :"mink3.jpg"},
-        {"src" :"mink4.jpg"}
+        {"src" :"mink2.jpg"}
       ],
       "media": [
         {"src":"minkFrog.mp3",
@@ -472,9 +470,7 @@
       "moreinfo": "http://www.michigan.gov/dnr/0,4570,7-153-10370_12145_12201-61167--,00.html",
       "thumb": "sirenThumb.png",
       "photos": [
-        {"src" :"siren1.jpg"},
-        {"src" :"siren2.jpg"},
-        {"src" :"siren3.jpg"}
+        {"src" :"siren1.jpg"}
       ],
       "status":"rare"
     },
